@@ -1,8 +1,8 @@
-# Guanru Park · 建筑漫游
+# Guanru Park 2.0 · 建筑漫游
 
-Blender 建筑模型的实时网页展示。支持完整建筑、B1 / 1F / 2F 独立楼层、鸟瞰 / 东侧 / 中庭 / 正交俯视、家具显示、自动旋转、缩放与视角重置。手机支持单指旋转和双指缩放、平移。
+Blender 精细建筑模型的交互展示。支持整栋、B1 / 1F / 2F / 3F 独立楼层，分层展开、揭开屋顶、水平剖切、日景和傍晚、家具显隐、房间标签与聚焦，以及 8 个整体或室内外视角。效果图集提供 12 张 Blender 正式渲染。手机支持单指旋转和双指缩放、平移。
 
-模型以米为单位；层高约 3.15 m。尺寸依据参考截图推定。网页使用适配后的实时材质，保留主要颜色、玻璃透明度、灯光和阴影，未烘焙 Blender 程序化纹理；正式效果图作为加载预览及错误回退。
+模型以米为单位，层高约 3.15 m；尺寸依据参考截图推定。2.0 保留原体量与平面洞口，新增建筑收口、家具软装与厨卫细节。网页使用 UV PBR 纹理与实时光照，和 Blender 离线渲染并非逐像素一致。
 
 ## 开发
 
@@ -14,15 +14,16 @@ npm run build
 
 ## 模型处理与验证
 
-网页模型包含 23 个楼层/用途组，保留原始体量和家具几何，并按材质合并绘制、量化与 Meshopt 压缩。`scripts/optimize-model.mjs` 接收 Blender 导出的 GLB 路径，写入 `public/villa.glb`。
+`public/villa-v2.glb` 包含 24 个楼层用途组、约 195 万三角面及 19 张嵌入纹理，约 19.28 MB。按材质合并为 167 次绘制，并量化、Meshopt 压缩；未减面。纹理 UV 量化前归一化，并使用 KHR_texture_transform 保持实体纹理尺度。
 
 ```sh
-node scripts/optimize-model.mjs /path/to/export/villa.glb
-node scripts/verify-model.mjs
+node scripts/optimize-model.mjs /absolute/path/to/web_export/villa.glb
+node --experimental-strip-types scripts/verify-model.mjs
 npx tsc --noEmit
-npm run lint -- app/page.tsx app/viewer.tsx app/layout.tsx scripts/optimize-model.mjs scripts/verify-model.mjs
+npm run lint -- app/page.tsx app/viewer.tsx app/model-state.ts app/layout.tsx scripts/optimize-model.mjs scripts/verify-model.mjs
+npm run build
 ```
 
-验证脚本实际通过 Three.js 和 Meshopt 解码模型，检查场景数量、分层标记、家具与顶棚组、空间尺度、绘制数量和文件大小。没有自动执行浏览器视觉或交互测试。
+验证脚本用实际 Three.js GLTFLoader 与 Meshopt 解码，检查几何、UV、文件尺寸、楼层隔离、家具显隐、展开复位、屋顶揭开、剖切方向、相机目标与房间标记。图像加载以 CPU 桩替代，另用 Pillow 解码导出的嵌入图片；未执行浏览器 GPU 视觉与点击测试。
 
-站点首次发布设为仅所有者访问。原 Blender 工程继续作为可编辑建模源。
+`app/model-state.ts` 定义空间选项、相机、房间及分组显隐；`app/viewer.tsx` 负责 Three.js 渲染与相机；`app/page.tsx` 和样式负责控制面板及画廊。
