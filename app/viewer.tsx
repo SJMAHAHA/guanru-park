@@ -105,6 +105,7 @@ export default function Viewer({
       near: 1,
       far: 160,
     });
+    sun.shadow.camera.updateProjectionMatrix();
     sun.shadow.normalBias = 0.055;
     sun.shadow.bias = -0.0003;
     scene.add(sun);
