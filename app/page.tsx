@@ -28,7 +28,11 @@ import {
   ChevronRight,
   Settings2,
 } from 'lucide-react';
-import Viewer, { type ViewerAPI, type LabelPosition } from './viewer';
+import Viewer, {
+  type ViewerAPI,
+  type LabelPosition,
+  type PerformanceStats,
+} from './viewer';
 import {
   FLOOR_NAMES,
   INTERIORS,
@@ -57,6 +61,11 @@ const viewLabels: Record<View, string> = {
   living: '主客厅',
   master: '主卧',
   kitchen: '西厨',
+  bath: '主卫',
+  chinese: '中厨',
+  dining: '餐厅',
+  office: '办公室',
+  pavilion: '屋顶起居',
 };
 const gallery = [
   { id: '01_Aerial', title: '整体鸟瞰' },
@@ -66,6 +75,9 @@ const gallery = [
   { id: '08_Living', title: '主客厅' },
   { id: '09_Master', title: '主卧套房' },
   { id: '10_Kitchen', title: '西厨' },
+  { id: '13_Bath', title: '主卫 · 悬挑台盆' },
+  { id: '14_Kitchen_Detail', title: '西厨 · 内嵌设备' },
+  { id: '15_Chinese_Kitchen', title: '中厨' },
   { id: '11_Twilight', title: '傍晚灯光' },
   { id: '05_B1_Axon', title: 'B1 · 剖切轴测' },
   { id: '06_1F_Axon', title: '1F · 剖切轴测' },
@@ -75,6 +87,8 @@ const gallery = [
 export default function Home() {
   const [floor, setFloor] = useState<Floor>('all'),
     [view, setView] = useState<View>('aerial'),
+    [stats, setStats] = useState<PerformanceStats | null>(null),
+    [quality, setQuality] = useState<'high' | 'standard'>('high'),
     [furniture, setFurniture] = useState(true),
     [rotate, setRotate] = useState(false),
     [reset, setReset] = useState(0),
@@ -100,6 +114,7 @@ export default function Home() {
       floor,
       view,
       furniture,
+      quality,
       rotate,
       reset,
       explode,
@@ -114,6 +129,7 @@ export default function Home() {
       floor,
       view,
       furniture,
+      quality,
       rotate,
       reset,
       explode,
@@ -181,7 +197,7 @@ export default function Home() {
     <main className="app-v2">
       <header className="topbar">
         <div className="wordmark">
-          GUANRU PARK<span className="version-tag">2.0</span>
+          GUANRU PARK<span className="version-tag">3.0</span>
         </div>
         <span className="topbar-context">建筑 · 材质 · 空间</span>
         <Dialog>
@@ -192,7 +208,7 @@ export default function Home() {
           <DialogContent className="render-dialog">
             <DialogTitle>{gallery[galleryIndex].title}</DialogTitle>
             <DialogDescription>
-              Guanru Park 2.0 · Blender 效果图
+              Guanru Park 3.0 · Blender 效果图
             </DialogDescription>
             <div className="gallery-image">
               <Image
@@ -341,6 +357,20 @@ export default function Home() {
               </div>
             )}
           </section>
+          <section className="quality-section">
+            <div className="section-heading">
+              <h2>画质</h2>
+            </div>
+            <Tabs
+              value={quality}
+              onValueChange={(v) => setQuality(v as 'high' | 'standard')}
+            >
+              <TabsList aria-label="画质选择">
+                <TabsTrigger value="high">高画质</TabsTrigger>
+                <TabsTrigger value="standard">标准画质</TabsTrigger>
+              </TabsList>
+            </Tabs>
+          </section>
           <section className="lighting-section">
             <div className="section-heading">
               <Sun size={16} />
@@ -393,6 +423,36 @@ export default function Home() {
               />
             </label>
           </section>
+          {stats && (
+            <details className="performance-readout">
+              <summary>实时表现</summary>
+              <button
+                className="performance-test"
+                onClick={() => viewerApi.current?.benchmark()}
+              >
+                测量当前视角 · 5 秒
+              </button>
+              <output
+                aria-label="实时性能"
+                data-gpu={stats.gpu}
+                data-browser={stats.browser}
+                data-quality={stats.quality}
+                data-fps={stats.fps.toFixed(1)}
+                data-render-ms={stats.renderMs.toFixed(2)}
+                data-load-seconds={stats.loadSeconds.toFixed(2)}
+                data-triangles={stats.triangles}
+                data-calls={stats.calls}
+                data-viewport={stats.viewport}
+              >
+                加载 {stats.loadSeconds.toFixed(1)} s ·{' '}
+                {stats.fps > 0 ? `${stats.fps.toFixed(0)} FPS` : '按需绘制'}
+                <br />
+                {stats.viewport}
+                <br />
+                <small>{stats.gpu}</small>
+              </output>
+            </details>
+          )}
           <div className="panel-caption">
             <span className="status-mark" />
             米制模型 · 层高约 3.15 m<br />
@@ -402,7 +462,7 @@ export default function Home() {
         <section
           ref={stage}
           className={`stage-v2 ${evening ? 'is-evening' : ''}`}
-          aria-label="Guanru Park 2.0 三维展示"
+          aria-label="Guanru Park 3.0 三维展示"
         >
           <Viewer
             key={attempt}
@@ -415,6 +475,7 @@ export default function Home() {
             }}
             onError={setError}
             onLabels={setLabelPositions}
+            onStats={setStats}
           />
           {(!ready || error) && (
             <Image
@@ -422,8 +483,8 @@ export default function Home() {
               fill
               priority
               className="poster"
-              src="/preview-v2.jpg"
-              alt="Guanru Park 2.0 鸟瞰效果图"
+              src="/preview-v3.jpg"
+              alt="Guanru Park 3.0 鸟瞰效果图"
             />
           )}
           <div className="stage-caption">
@@ -500,13 +561,13 @@ export default function Home() {
               <button className="retry-button" onClick={retry}>
                 重新加载
               </button>
-              <a href="/preview-v2.jpg" target="_blank" rel="noreferrer">
+              <a href="/preview-v3.jpg" target="_blank" rel="noreferrer">
                 查看效果图
               </a>
             </div>
           ) : !ready ? (
             <output className="load-box" aria-live="polite">
-              <span className="loading-edition">GUANRU PARK 2.0</span>
+              <span className="loading-edition">GUANRU PARK 3.0</span>
               <p>
                 {progress === 99
                   ? '正在准备材质与光照…'
@@ -518,7 +579,19 @@ export default function Home() {
           <div className="stage-bottom">
             <div className="closeup-tray">
               <span>走近看看</span>
-              {(['pool', 'living', 'master', 'kitchen'] as View[]).map((v) => (
+              {(
+                [
+                  'pool',
+                  'living',
+                  'master',
+                  'kitchen',
+                  'chinese',
+                  'bath',
+                  'dining',
+                  'office',
+                  'pavilion',
+                ] as View[]
+              ).map((v) => (
                 <button
                   key={v}
                   aria-pressed={view === v && !focus}

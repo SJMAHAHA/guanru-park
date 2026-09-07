@@ -8,11 +8,17 @@ export type View =
   | 'pool'
   | 'living'
   | 'master'
-  | 'kitchen';
+  | 'kitchen'
+  | 'chinese'
+  | 'bath'
+  | 'dining'
+  | 'office'
+  | 'pavilion';
 export type Options = {
   floor: Floor;
   view: View;
   furniture: boolean;
+  quality: 'high' | 'standard';
   rotate: boolean;
   reset: number;
   explode: boolean;
@@ -38,7 +44,16 @@ export const FLOOR_NAMES: Record<Floor, string> = {
   '2F': '2F · 卧室与露台',
   '3F': '3F · 屋顶空间',
 };
-export const INTERIORS = new Set<View>(['living', 'master', 'kitchen']);
+export const INTERIORS = new Set<View>([
+  'living',
+  'master',
+  'kitchen',
+  'chinese',
+  'bath',
+  'dining',
+  'office',
+  'pavilion',
+]);
 export const PRESETS: Record<
   Exclude<View, 'plan'>,
   {
@@ -49,6 +64,36 @@ export const PRESETS: Record<
     fov?: number;
   }
 > = {
+  chinese: {
+    position: [-14.293, 4.8, 10.187],
+    target: [-18.507, 4.4, 8.693],
+    title: '中厨',
+    fov: 65,
+  },
+  bath: {
+    position: [-18.827, 7.92, -1.173],
+    target: [-15.52, 7.4, -4.107],
+    title: '主卫',
+    fov: 65,
+  },
+  dining: {
+    position: [-8.6, 4.77, -0.8],
+    target: [-8.8, 4.15, -5.5],
+    title: '餐厅',
+    fov: 65,
+  },
+  office: {
+    position: [-0.3, 4.77, 5.1],
+    target: [-4.8, 4.2, 3.1],
+    title: '办公室',
+    fov: 65,
+  },
+  pavilion: {
+    position: [-0.1, 11.08, 4.8],
+    target: [-3.2, 10.7, 1.5],
+    title: '屋顶起居室',
+    fov: 65,
+  },
   aerial: { position: [70, 47, -85], target: [0, 3.3, 0], title: '整体鸟瞰' },
   east: { position: [100, 28, -31], target: [0, 4, 0], title: '东侧立面' },
   courtyard: { position: [54, 36, 75], target: [0, 4, 3], title: '双翼中庭' },

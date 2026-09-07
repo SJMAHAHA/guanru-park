@@ -905,3 +905,38 @@ button:focus-visible {
     scroll-behavior: auto !important;
   }
 }
+
+.quality-section {
+  padding: 16px 0;
+  border-bottom: 1px solid var(--border);
+}
+.closeup-tray {
+  max-width: calc(100% - 32px);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.performance-readout {
+  font-size: 13px;
+  line-height: 1.6;
+  margin: 12px 0;
+  color: #b9cbd0;
+}
+.performance-readout summary {
+  cursor: pointer;
+  font-size: 14px;
+}
+.performance-readout output {
+  display: block;
+  margin-top: 8px;
+}
+
+.performance-test {
+  display: block;
+  margin: 8px 0;
+  padding: 6px 10px;
+  border: 1px solid #54717a;
+  border-radius: 5px;
+  font-size: 11px;
+  cursor: pointer;
+}

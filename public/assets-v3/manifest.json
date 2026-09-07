@@ -1,0 +1,48 @@
+{
+  "version": "3.0",
+  "assets": [
+    {
+      "floor": "B1",
+      "url": "/assets-v3/B1.gltf",
+      "bytes": 8890812
+    },
+    {
+      "floor": "1F",
+      "url": "/assets-v3/1F.gltf",
+      "bytes": 9811852
+    },
+    {
+      "floor": "2F",
+      "url": "/assets-v3/2F.gltf",
+      "bytes": 9253552
+    },
+    {
+      "floor": "3F",
+      "url": "/assets-v3/3F.gltf",
+      "bytes": 1330396
+    },
+    {
+      "floor": "Roof",
+      "url": "/assets-v3/Roof.gltf",
+      "bytes": 2480
+    },
+    {
+      "floor": "Site",
+      "url": "/assets-v3/Site.gltf",
+      "bytes": 230864
+    }
+  ],
+  "textureTiers": {
+    "high": 2048,
+    "standard": 1024
+  },
+  "lights": "/assets-v3/lights.json",
+  "rooms": "/assets-v3/rooms.json",
+  "lightmaps": {
+    "B1": "/assets-v3/lightmaps/B1.hdr",
+    "1F": "/assets-v3/lightmaps/1F.hdr",
+    "2F": "/assets-v3/lightmaps/2F.hdr",
+    "3F": "/assets-v3/lightmaps/3F.hdr"
+  },
+  "mirrors": "/assets-v3/mirrors.json"
+}
