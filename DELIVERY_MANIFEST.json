@@ -13,8 +13,28 @@
     },
     {
       "path": "README.md",
-      "bytes": 2857,
-      "sha256": "dc6d24a69564d87b02628ea47c34cde8d93ca9020484c2626a57d6470239e2c5"
+      "bytes": 3554,
+      "sha256": "c399247216118035d93c19a1f80483fd7166dabb28cd7577f84c7aed2f272728"
+    },
+    {
+      "path": "docs/LEARNING_JOURNEY.md",
+      "bytes": 13531,
+      "sha256": "39e3554e85726bb5c4dacc8a6d491d92bb0a39941e1cbce37912e5fd3b246a42"
+    },
+    {
+      "path": "docs/LEARNING_SOURCES.md",
+      "bytes": 2701,
+      "sha256": "97cf2806b02ee9d8fc4b9f542dc94bddcbf43530ad880bcc72c67c0732ea3c3e"
+    },
+    {
+      "path": "docs/assets/lost-orbit-v1.png",
+      "bytes": 10063082,
+      "sha256": "fc9bc1429cf7e31c0e34edc7a098763904e43557e4dc26b3f2b4c24c7d72fab3"
+    },
+    {
+      "path": "docs/assets/lost-orbit-v3.png",
+      "bytes": 11237123,
+      "sha256": "8387e13d5f93e4928a4ec231b4baa9e25b1eaac39d435aa92542d6aa415d6334"
     },
     {
       "path": "guanru park/3.0升级参考/1F/06_1F_剖切轴测.png",
@@ -1107,6 +1127,11 @@
       "sha256": "2f6578adf2681f9548dd1898c4e2e14cb055b631a33676b8c63471df316f8117"
     },
     {
+      "path": "guanru-park-web/components.json",
+      "bytes": 516,
+      "sha256": "9928283696d86836422959a2c520df83a718d31ffbcab533a14ca8dca2c8d475"
+    },
+    {
       "path": "guanru-park-web/components/ui/accordion.tsx",
       "bytes": 2664,
       "sha256": "33e1c60ba503f4eb36f9a8b1f68b236174b11656d8efea6bac65abddda2f9019"
@@ -1405,11 +1430,6 @@
       "path": "guanru-park-web/components/ui/tooltip.tsx",
       "bytes": 2855,
       "sha256": "b86e51969931c3d62e88d0bdacd1cd8219105dc6d6b6a588a80011bf92e987cd"
-    },
-    {
-      "path": "guanru-park-web/components.json",
-      "bytes": 516,
-      "sha256": "9928283696d86836422959a2c520df83a718d31ffbcab533a14ca8dca2c8d475"
     },
     {
       "path": "guanru-park-web/hooks/use-mobile.ts",

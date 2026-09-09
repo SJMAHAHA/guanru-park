@@ -1,8 +1,16 @@
-# Guanru Park
+# Guanru Park · Codex × Blender 学习记录
 
-Guanru Park 3.0 建筑展示项目：可编辑 Blender 模型、生成与导出脚本、Three.js 网页源码、材质资源、效果图和检查记录。
+这个仓库记录我使用 Codex 学习 Blender 的过程，也保存 Guanru Park 3.0 的完整建筑展示成果：可编辑模型、生成与导出脚本、Three.js 网页源码、材质资源、效果图和检查记录。
+
+从询问 Blender 安装空间，到制作《失联轨道舱》，再到根据参考图重建别墅，我逐渐开始用具体画面、局部问题和版本对比来推动修改。这里既有成片，也保留了反复迭代和验证未完成的记录。
+
+**[阅读学习过程：从安装软件到可交互建筑模型](docs/LEARNING_JOURNEY.md)** · [记录依据](docs/LEARNING_SOURCES.md)
 
 [公开交互展示](https://guanru-park-villa.haru2248772597.chatgpt.site)
+
+![Guanru Park 3.0 Blender 鸟瞰效果图](guanru-park-web/public/gallery/01_Aerial.jpg)
+
+上图是 Blender 离线效果图。实际浏览器截图和性能数据位于交付目录的 `qa/` 中。
 
 ## 交付文件
 
