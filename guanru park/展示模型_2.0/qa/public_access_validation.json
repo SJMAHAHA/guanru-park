@@ -1,0 +1,274 @@
+{
+  "checked_at_utc": "2026-09-06T18:50:27.429064+00:00",
+  "access_mode": "public",
+  "authentication": "No cookies or Authorization headers used",
+  "site_version": 2,
+  "page": {
+    "path": "/",
+    "http": 200,
+    "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/",
+    "bytes": 39607,
+    "sha256": "55f04fd4ea2a8a6806d22bafb922b9a9c093a96f7a4ecd89a87d42550546f3b0"
+  },
+  "assets": [
+    {
+      "path": "/villa-v2.glb",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/villa-v2.glb",
+      "bytes": 19279932,
+      "sha256": "4e85e56da8c2256a395f69cb47c78ef9adbfc03dc456a88d513e48fadfcd185f",
+      "matches_local": true
+    },
+    {
+      "path": "/preview-v2.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/preview-v2.jpg",
+      "bytes": 126128,
+      "sha256": "3a541c105c2ba112c0be60b15b4970e72fd2ecb35616ec19edc1a2c8e5f4c719",
+      "matches_local": true
+    },
+    {
+      "path": "/favicon.svg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/favicon.svg",
+      "bytes": 231,
+      "sha256": "259441cfac8e81a0f5959ad041d08ea567dd9c65179a6b1e0c03057b0099541a",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/02_East.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/02_East.jpg",
+      "bytes": 181581,
+      "sha256": "748d45ce77d32daeea204f45c7d8b3baf7be0ac6993e4285a26853646751f42d",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/03_Courtyard.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/03_Courtyard.jpg",
+      "bytes": 233059,
+      "sha256": "28e8791635aa8195ff30d87d80ca5f67f8cd7a1817c06cca1dd13146c0b8542d",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/10_Kitchen.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/10_Kitchen.jpg",
+      "bytes": 207154,
+      "sha256": "ba6de34d23415968e9699aa08484910b180c94d44df7184387d8f95924fedee7",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/11_Twilight.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/11_Twilight.jpg",
+      "bytes": 195108,
+      "sha256": "049892941d124d1a153baa53c32e710f5263e6221e13043b57e12741d5a95d56",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-10_Kitchen.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-10_Kitchen.jpg",
+      "bytes": 12265,
+      "sha256": "779dbf20850b3ce1ce103b940f434a1f025eda3d55f183d6f6fce6c9774bf183",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-03_Courtyard.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-03_Courtyard.jpg",
+      "bytes": 12276,
+      "sha256": "13fecb5ca617db6f675abd1e119aaff2b0ad4a25c377cf0fedae0bc1facc4f40",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/04_Pool.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/04_Pool.jpg",
+      "bytes": 322352,
+      "sha256": "f7957980bd399090677adddcddd694beabb980340dcf849dcbf88a52b509e628",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-09_Master.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-09_Master.jpg",
+      "bytes": 15668,
+      "sha256": "fae4f14709d7806329b80a059122c9289aa628065d37868d3acf7fd283e9d62d",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/05_B1_Axon.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/05_B1_Axon.jpg",
+      "bytes": 289649,
+      "sha256": "b6dc29d6ff694aa0c68989d9545334635a8f944a1cfcb7682138e1c67d5d858e",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-11_Twilight.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-11_Twilight.jpg",
+      "bytes": 9764,
+      "sha256": "699c7cd0267dfbf7a9b2cfb13c0250b09a24a5fc1dd5efd59c56e81f7e1cf4eb",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-05_B1_Axon.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-05_B1_Axon.jpg",
+      "bytes": 8544,
+      "sha256": "592f7ffa71beb647e1d5528110351dc5ee933a66975ecad2917505187f08c6e6",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/08_Living.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/08_Living.jpg",
+      "bytes": 260304,
+      "sha256": "1b0e7baceda397f9fb08ffd4c1c9e1e4a5a524d05f08a020905b5d391f48fd90",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/07_2F_Axon.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/07_2F_Axon.jpg",
+      "bytes": 228456,
+      "sha256": "c9da923d63ee55f77735d1e4dccc6909f0a4cbd9ba559a47431a72ec2ca4e55f",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/09_Master.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/09_Master.jpg",
+      "bytes": 258600,
+      "sha256": "6b353a0be2ed3859b488e1a0e01580b9b15bf0e7fa1e7bc33ddbafd9b3147289",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-02_East.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-02_East.jpg",
+      "bytes": 9425,
+      "sha256": "159bac3d1a2f65b91bb07c8dab78ad0dc66024e798cc9860c635211b94bd58e0",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-08_Living.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-08_Living.jpg",
+      "bytes": 16094,
+      "sha256": "abab0dfba65ac4f549eebb4ba05d11c6f0215844530069f96cf01b1e99ee2ca3",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-07_2F_Axon.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-07_2F_Axon.jpg",
+      "bytes": 6178,
+      "sha256": "1eba88b36da1ff0a05a5df3135611747c868c28201cace0a5c141b7e8961c39a",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-06_1F_Axon.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-06_1F_Axon.jpg",
+      "bytes": 8179,
+      "sha256": "9099928fa0077f1454d021ca8cc7ce611899319acd65e965eadd4c59f04e2754",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/01_Aerial.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/01_Aerial.jpg",
+      "bytes": 202097,
+      "sha256": "f327c97859d00be3327726b5aa600661ff9f73e6517853ef58f3488336f7d515",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/06_1F_Axon.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/06_1F_Axon.jpg",
+      "bytes": 291433,
+      "sha256": "35755f063fbab94c8d79b8eab4c268f15991ed4973b580f477141e2361639435",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-04_Pool.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-04_Pool.jpg",
+      "bytes": 17243,
+      "sha256": "b69d111bd1e79a06622213c996fca1731d3c2ef1d1cf692998bbf768791a9101",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-12_3F_Axon.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-12_3F_Axon.jpg",
+      "bytes": 3243,
+      "sha256": "596f93951e57457f7bc8669d467426fb3daf442dfc4101cf10ceeab5be48de8c",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/12_3F_Axon.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/12_3F_Axon.jpg",
+      "bytes": 109136,
+      "sha256": "fb85c56eae033faa02c1fd0aa75b2bfd0ddf133cee983bab274b39755958ca75",
+      "matches_local": true
+    },
+    {
+      "path": "/gallery/thumb-01_Aerial.jpg",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/gallery/thumb-01_Aerial.jpg",
+      "bytes": 10277,
+      "sha256": "da942ead056f8169dd7fb81d631266d7221a0ca2e04427ee9ce0a3324ad85172",
+      "matches_local": true
+    },
+    {
+      "path": "/_next/static/chunks/framework-D_rUT4EX.js",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/_next/static/chunks/framework-D_rUT4EX.js",
+      "bytes": 190152,
+      "sha256": "939d0fabebb3b2f01753bb866b067d8d3384fb06da19f0e6557609d3b1a9f4f7"
+    },
+    {
+      "path": "/_next/static/chunks/index-CitbN6Nh.js",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/_next/static/chunks/index-CitbN6Nh.js",
+      "bytes": 192321,
+      "sha256": "ca1ca6b16657e364761adf1fc265186ddb943d4e905394e29ba1266c58da5173"
+    },
+    {
+      "path": "/_next/static/chunks/layout-segment-context-DnBBGGUd.js",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/_next/static/chunks/layout-segment-context-DnBBGGUd.js",
+      "bytes": 494,
+      "sha256": "4a9881a3f5415c8aa74501e404f139e3c2ffeb98ea8a0193c80193bf539a48b9"
+    },
+    {
+      "path": "/_next/static/chunks/page-BeUvHdTW.js",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/_next/static/chunks/page-BeUvHdTW.js",
+      "bytes": 853654,
+      "sha256": "8e771b6c0c1d928745725a19a4475212d4a6661eaf8fa03b60986fb5e7c7594d"
+    },
+    {
+      "path": "/_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+      "bytes": 694,
+      "sha256": "5db5ba82eef00d1dee7e86e663098c9427d01183a88d357437daff295aec3e75"
+    },
+    {
+      "path": "/_next/static/css/index.CZzplUpD.css",
+      "http": 200,
+      "final_url": "https://guanru-park-villa.haru2248772597.chatgpt.site/_next/static/css/index.CZzplUpD.css",
+      "bytes": 205378,
+      "sha256": "b2232bd726a791a6b58034cca98d141177d2f97473b86ccd019d3e513bba99cc"
+    }
+  ],
+  "all_passed": true
+}

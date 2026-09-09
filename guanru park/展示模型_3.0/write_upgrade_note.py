@@ -1,0 +1,17 @@
+import json
+from pathlib import Path
+ROOT=Path(__file__).resolve().parent;WEB=ROOT.parent.parent/'guanru-park-web'
+rooms=json.loads((ROOT/'room_schedule.json').read_text());perf=json.loads((ROOT/'qa/performance-v3.json').read_text());asset=json.loads((WEB/'work/asset-audit-v3.json').read_text());model=json.loads((WEB/'work/model-validation-v3.json').read_text())
+names={'aerial':'整栋鸟瞰','living':'主客厅','kitchen':'西厨','master':'主卧','1F-section':'1F 单层'}
+lines=['# Guanru Park 3.0 升级说明','', '可编辑模型：`Guanru_Park_3.0.blend`。网页源码：`../../guanru-park-web`。2.0 原始交付独立保留，网页 2.0 基线为 `64af47a84d8644818315ba29db6e3d8b772d7ad9`。','', '预览入口：[Guanru Park 建筑漫游](https://guanru-park-villa.haru2248772597.chatgpt.site)。','', '## 本版完成内容','', '- 保留原建筑轮廓、弧形基座、层数、退台、屋顶、泳池、交通与主要开洞关系；按新增参考核对，未将参考界面的红色描边用于建筑设计。装修采用暖白、浅灰、自然木色和深色金属。','- 主要房间增加地墙顶装修、收口、筒灯和局部线性灯、窗帘、开关插座与风口；餐厅增加有吊索、顶座和实际灯光的线性吊灯。原模型家具与康体娱乐设备保留并深化。','- 非厨房柜体已移除或替换。卧室使用开放床边小桌，衣帽间采用挂衣杆和坐凳，卫浴采用有支架的悬挑台盆，客厅电视加墙面支架，酒窖使用开放酒架。自动名称检查未发现列出的禁用柜体，详见 `qa/cabinet_replacements.json` 与 `qa/room-audit.json`。','- 中厨、西厨保留完整一体化橱柜例外；包含整合冰箱、双层嵌入式烤/蒸设备、台下洗碗机、台下盆、龙头、嵌入灶具及有上升段的排烟罩。柜门分缝、台面和设备舱可近看。主卫台盆与淋浴已改靠实际内隔墙，避开窗洞。','- 网页加载本版真实模型，按楼层拆包，共 29 个显示组、约 %.2f 万三角形；模型几何约 %.1f MB。实际包含 %d 张独立共享材质图及两档变体、4 张地面间接光 HDR，全部资源约 %.1f MB，单文件最大 %.1f MB。'%(model['triangles']/10000,model['megabytes'],len(asset['textures']),asset['bytes']/1e6,asset['largest_file_bytes']/1e6),'- 高画质：主要材质 2K、DPR 上限 2、4096 主阴影、SMAA、半分辨率接触阴影；标准：1K 材质、DPR 上限 1.5、2048 主阴影、关闭接触阴影。玻璃与水使用物理透射，透射缓冲采用半分辨率，局部实际灯位通过 8 盏实时灯复用。','- 保留楼层、屋顶显隐、水平剖切、分层展开、家具显隐、房间聚焦、日景/傍晚、缩放与自动旋转。补充主卫、中厨、餐厅、办公室和屋顶起居近景。','', '## 浏览器实测','', '设备：Apple M4，16 GB 内存；Codex 内置 Chromium 152，ANGLE Metal。视口 1440 × 1000，三维区域 1148 × 936。后台 Blender 渲染在测试期间暂停。','', '各预设连续绘制 5 秒，表内为末段约 1 秒的平均帧率，不是所有设备的性能承诺。页面静止时按需绘制；“实时表现”可以自行重新测量。加载为本机 localhost/已缓存资源条件，约 4.3–5.0 秒，不代表公网首次下载耗时。','', '| 视角 | 高画质 FPS | 标准 FPS |','|---|---:|---:|']
+for view,name in names.items():
+ vals={x['quality']:x['fps'] for x in perf if x['view']==view};lines.append(f"| {name} | {vals['high']} | {vals['standard']} |")
+lines += ['', '原始记录见 `qa/performance-v3.json`。计数中的绘制调用与三角形包含透射、阴影与后处理的多次提交，不能作为模型面数重复相加。','', '## 检查与对比','', '- Blender 逐层平面/轴测和主要近景检查；外部贴图依赖缺失 0，非有限变换 0，主要家具与墙面包围盒异常交叉 0。几何检查覆盖指定主要家具类别，不是全模型的精确碰撞求解。','- 网页实际操作覆盖所有楼层、俯视、分层展开、水平剖切、家具和屋顶显隐、房间聚焦、日夜、两档画质及主要室内近景；检查期间未出现持续加载或渲染错误。','- `qa/浏览器对比.html`：鸟瞰、主客厅、西厨、主卧、1F 剖切，均为真实浏览器截图。`qa/离线效果图对比.html`：相同机位的 Blender 渲染，独立标明。','- 网页相关 TypeScript、限定范围 lint、模型解码与交互分组检查已运行。全仓库 lint 有原模板 UI/hooks 的既存问题，未对无关组件扩大修改范围。','', '## 限制','', '- 本项目是依据参考图重建的展示模型，未作为施工图进行尺寸、机电管线或规范校核；未将不能确认的参考关系任意改成新建筑方案。','- 网页反射由环境图和屏幕透射近似，不是光线追踪；主卫近景使用一面实时平面反射（高画质 512、标准 256），其他镜面仍使用环境反射；极近距离或掠射角仍可能有薄线/透射边缘伪影。局部实时灯没有逐灯动态阴影，主阴影与接触阴影负责主要空间接触表现。','- 实际间接光烘焙覆盖四层主要地面，未烘焙所有墙顶；剖切、展开、屋顶揭开和隐藏家具时停用以防出现残影。主卫支撑修正和餐厅吊灯是在原地面间接光上继续深化，局部变化未单独追加新一轮烘焙。','- 标准档仍需加载共享模型和高分辨率源材质，再使用 1K 变体，主要降低持续渲染开销；高画质适合桌面设备，低功耗设备请用标准档。','', '## 逐间完成情况','', '对象数按房间参考范围和物件中心统计，包含装修细节；交通空间保持通行，不以堆放家具作为完成标准。热泡池与泳池的主要对象归在池体/结构分类，不在家具数量中。室外空间使用铺装、景观、户外家具和既有遮棚。','', '| 楼层 | 空间 | 完成情况 | 实际灯位 | 柜体策略 |','|---|---|---|---:|---|']
+for r in rooms:
+ name=r['name'];state='装修、家具/设备及收口已完成'
+ if any(k in name for k in ['走廊','交通','楼梯']):state='地墙顶、灯具、收口与通行空间'
+ elif any(k in name for k in ['泳池','泡池']):state='池体、湿区饰面与灯具'
+ elif '户外' in name or '屋顶平台' in name:state='室外铺装、景观与户外家具'
+ lines.append(f"| {r['floor']} | {name} | {state} | {r.get('real_lights',0)} | {r['cabinet_policy']} |")
+(ROOT/'3.0升级说明.md').write_text('\n'.join(lines)+'\n')
+print('Upgrade note written',len(rooms),'spaces',len(perf),'measurements')

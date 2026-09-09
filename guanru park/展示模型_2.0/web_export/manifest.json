@@ -1,0 +1,170 @@
+[
+  {
+    "name": "B1__Structure",
+    "floor": "B1",
+    "category": "Structure",
+    "faces": 53484,
+    "vertices": 52412
+  },
+  {
+    "name": "B1__Windows",
+    "floor": "B1",
+    "category": "Windows",
+    "faces": 18228,
+    "vertices": 17856
+  },
+  {
+    "name": "B1__Furniture",
+    "floor": "B1",
+    "category": "Furniture",
+    "faces": 137574,
+    "vertices": 154680
+  },
+  {
+    "name": "B1__Pools",
+    "floor": "B1",
+    "category": "Pools",
+    "faces": 3612,
+    "vertices": 4048
+  },
+  {
+    "name": "B1__Details",
+    "floor": "B1",
+    "category": "Details",
+    "faces": 52941,
+    "vertices": 52812
+  },
+  {
+    "name": "B1__Ceilings",
+    "floor": "B1",
+    "category": "Ceilings",
+    "faces": 350,
+    "vertices": 672
+  },
+  {
+    "name": "1F__Structure",
+    "floor": "1F",
+    "category": "Structure",
+    "faces": 35976,
+    "vertices": 35502
+  },
+  {
+    "name": "1F__Windows",
+    "floor": "1F",
+    "category": "Windows",
+    "faces": 26460,
+    "vertices": 25920
+  },
+  {
+    "name": "1F__Furniture",
+    "floor": "1F",
+    "category": "Furniture",
+    "faces": 167172,
+    "vertices": 185332
+  },
+  {
+    "name": "1F__Pools",
+    "floor": "1F",
+    "category": "Pools",
+    "faces": 7146,
+    "vertices": 7636
+  },
+  {
+    "name": "1F__Details",
+    "floor": "1F",
+    "category": "Details",
+    "faces": 79828,
+    "vertices": 79072
+  },
+  {
+    "name": "1F__Ceilings",
+    "floor": "1F",
+    "category": "Ceilings",
+    "faces": 2068,
+    "vertices": 2496
+  },
+  {
+    "name": "2F__Structure",
+    "floor": "2F",
+    "category": "Structure",
+    "faces": 30058,
+    "vertices": 29496
+  },
+  {
+    "name": "2F__Windows",
+    "floor": "2F",
+    "category": "Windows",
+    "faces": 31262,
+    "vertices": 30624
+  },
+  {
+    "name": "2F__Furniture",
+    "floor": "2F",
+    "category": "Furniture",
+    "faces": 181083,
+    "vertices": 185900
+  },
+  {
+    "name": "2F__Pools",
+    "floor": "2F",
+    "category": "Pools",
+    "faces": 2680,
+    "vertices": 3120
+  },
+  {
+    "name": "2F__Details",
+    "floor": "2F",
+    "category": "Details",
+    "faces": 85657,
+    "vertices": 86884
+  },
+  {
+    "name": "2F__Ceilings",
+    "floor": "2F",
+    "category": "Ceilings",
+    "faces": 1818,
+    "vertices": 2016
+  },
+  {
+    "name": "3F__Structure",
+    "floor": "3F",
+    "category": "Structure",
+    "faces": 5822,
+    "vertices": 5708
+  },
+  {
+    "name": "3F__Windows",
+    "floor": "3F",
+    "category": "Windows",
+    "faces": 6272,
+    "vertices": 6144
+  },
+  {
+    "name": "3F__Furniture",
+    "floor": "3F",
+    "category": "Furniture",
+    "faces": 13632,
+    "vertices": 13912
+  },
+  {
+    "name": "3F__Details",
+    "floor": "3F",
+    "category": "Details",
+    "faces": 15092,
+    "vertices": 14784
+  },
+  {
+    "name": "Roof__Structure",
+    "floor": "Roof",
+    "category": "Structure",
+    "faces": 56,
+    "vertices": 56
+  },
+  {
+    "name": "Site__Landscape",
+    "floor": "Site",
+    "category": "Landscape",
+    "faces": 11640,
+    "vertices": 14472
+  }
+]

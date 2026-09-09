@@ -1,0 +1,1915 @@
+{
+  "version": "3.0",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 80,
+      "sha256": "f9bd0fa1c0307047a36dee6db486c9e8080ba9eebac027a7ebc6741534c9f4f3"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 133,
+      "sha256": "ee8e00ffb5e46770a50e8be9e1ad3384b1db8b1d68855301344f3804edec8ecf"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2857,
+      "sha256": "dc6d24a69564d87b02628ea47c34cde8d93ca9020484c2626a57d6470239e2c5"
+    },
+    {
+      "path": "guanru park/3.0升级参考/1F/06_1F_剖切轴测.png",
+      "bytes": 1338312,
+      "sha256": "e33449600ee7a79ea55c8522fdb6fa0cabb9c491417d3e760a10dca639b43697"
+    },
+    {
+      "path": "guanru park/3.0升级参考/1F/07_1F_平面图.png",
+      "bytes": 194833,
+      "sha256": "490e021e0c7d20b89a040f959e7632ed64677dd21f50754a41494f22b1bae877"
+    },
+    {
+      "path": "guanru park/3.0升级参考/2F/09_2F_剖切轴测.png",
+      "bytes": 1518478,
+      "sha256": "4af6a5b82b2a92f81aa432e035908efed6f672fcd42251bfdd77f59bfea5b66d"
+    },
+    {
+      "path": "guanru park/3.0升级参考/3.0升级提示词.md",
+      "bytes": 9244,
+      "sha256": "bcd5d817b55b2c0e0364fd1566d3be887d23c9736ac80cf6946a2ddceb9c8486"
+    },
+    {
+      "path": "guanru park/3.0升级参考/3F/08_3F_屋顶轴测.png",
+      "bytes": 1407447,
+      "sha256": "f6eed1531cd72a8edf84b04bdf59c17f21568a5be23f9d9db720b36800f41a11"
+    },
+    {
+      "path": "guanru park/3.0升级参考/B1/04_B1_剖切轴测.png",
+      "bytes": 1423374,
+      "sha256": "c37b43ed0b8171c385e9f913497308ec7f3a8f0201c1d79333787f6a13155d1c"
+    },
+    {
+      "path": "guanru park/3.0升级参考/B1/05_B1_平面图.png",
+      "bytes": 1156325,
+      "sha256": "a11a49909a72e7eeaec40807984c6e1bfa722f3beeae62f9782bf3dbc83ae84b"
+    },
+    {
+      "path": "guanru park/3.0升级参考/图片归档清单.json",
+      "bytes": 2543,
+      "sha256": "dea2102a082ea262205aef71fc001c42d777531317d903cf0f611dac9d95d0e0"
+    },
+    {
+      "path": "guanru park/3.0升级参考/外观/01_整体外观_侧向.png",
+      "bytes": 1224974,
+      "sha256": "83af1db176116140087dacb3f61428be25c42d2d41e35066fa8c877dc077978c"
+    },
+    {
+      "path": "guanru park/3.0升级参考/外观/02_整体外观_鸟瞰.png",
+      "bytes": 1392581,
+      "sha256": "8e28b4c00047f4fdf5fbe6d95196cb3e296fbf7d0a9d4cd3ba8590b6d0656735"
+    },
+    {
+      "path": "guanru park/3.0升级参考/外观/03_整体外观_另一侧.png",
+      "bytes": 1183681,
+      "sha256": "8b617668131544c3b4a284483652d250ee087de29d9357ba20c56e2767ca629b"
+    },
+    {
+      "path": "guanru park/Image_1788710156034_576.png",
+      "bytes": 1156325,
+      "sha256": "a11a49909a72e7eeaec40807984c6e1bfa722f3beeae62f9782bf3dbc83ae84b"
+    },
+    {
+      "path": "guanru park/Image_1788710160156_448.png",
+      "bytes": 1093193,
+      "sha256": "621e33370b76a936302bf2290987555f7d411aa111ae57fae2cda96c1f819dc8"
+    },
+    {
+      "path": "guanru park/Image_1788710163745_824.png",
+      "bytes": 1103271,
+      "sha256": "012ade1b6d04c6750d7bb17b2d4907aa67e082182524e381901963dcf8755c92"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/2.0升级说明.md",
+      "bytes": 1728,
+      "sha256": "0f7566015cd1fa65e6867c40ff628b821366d20110bbda3df598bea07636c5c5"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/Guanru_Park_2.0.blend",
+      "bytes": 7545859,
+      "sha256": "2c91d6ff1be8064cc35d6c27e9fbb83736511b3b1cb267782f2ff4487698287f"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/build_villa.py",
+      "bytes": 58549,
+      "sha256": "2c75ea49df2e19aaa44030c0a299ce76ed8e4066932a723b7c9a71f6e66b0c12"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/details_v2.py",
+      "bytes": 21235,
+      "sha256": "debe41189386b6edb558414069f6ed27fd4741e524f94ad97aef706a8fdcaff2"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/inspect_villa.py",
+      "bytes": 2602,
+      "sha256": "113cb3cfd9c28df89efa83de9a5fe9cbc239a4bed7d5091f051e1625996092c7"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/make_textures.py",
+      "bytes": 2654,
+      "sha256": "7da0c3ee9c361e4c80ef10e94609598484987a48842d5869fb53c7307dc25baf"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/01_Aerial_preview.png",
+      "bytes": 967169,
+      "sha256": "ad7759ce6ab87d0fa356d7e7352de62c2260c441acc4bde9b5d97fc7cf0bda8d"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/04_Pool_preview.png",
+      "bytes": 1043152,
+      "sha256": "e0c727f807622b5435d2522e4b912b2ad996edbddffe0666aff93ff9014c0155"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/08_Living_preview.png",
+      "bytes": 1035876,
+      "sha256": "6096f519ce0535cf5891186d5b46c14ffe0faaa4d0b4b4bc00c8b9df844325fe"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/09_Master_preview.png",
+      "bytes": 1039128,
+      "sha256": "4f3affd134ed2b6e780db7a1935f1a8b72a06db0d584bbc00b54d9f102ac9b75"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/10_Kitchen_preview.png",
+      "bytes": 958648,
+      "sha256": "0c45456bea5c81308b3236f9418d19180ac1162513e88d6b22f40c72dac3f739"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/11_Twilight_preview.png",
+      "bytes": 931630,
+      "sha256": "9e59a5266997f5a2f70bfef819bf6ceffa830c25ff77451fcc28ec6e3b80e918"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/compare_v1.py",
+      "bytes": 2146,
+      "sha256": "f2d12acb4dcfde5c982106c19afa74459f14e8b4f41f376e72269f4dfbb0ce6c"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/formal_contact_1.jpg",
+      "bytes": 271036,
+      "sha256": "7aa006dd29fa3f248d49f138f2475b6d52fcfcab840fa977edbe40925b9b0dff"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/formal_contact_2.jpg",
+      "bytes": 284912,
+      "sha256": "765c5d58a782750647bf26f9d0ae55dcfd7f6d3a2c78d0c8e383f23aed00c4f9"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/formal_contact_3.jpg",
+      "bytes": 322255,
+      "sha256": "3f1d6ac3047a16ceb5049ce0d5b54056f3540f08b223f5e84e052ffb2c5013a8"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/package_validation.json",
+      "bytes": 287,
+      "sha256": "0053b327354fd1e8b4c8fa6682a6c0525ce4349fbcbe2aeae5eba769bb2d5619"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/public_access_validation.json",
+      "bytes": 10669,
+      "sha256": "39b8b15718a7508ec68c7a5c05eedd8e42edd83f901f23a0dfbe053db210547c"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/reference_contact.jpg",
+      "bytes": 160940,
+      "sha256": "f383ff03ab8f39db5c9fdeba3b3a060798ab278f3b26331e1e9b0de3f8b76c61"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/render_asset_validation.json",
+      "bytes": 4552,
+      "sha256": "abc71a0a003ec95cef072b2e6c249e482c51ccfba5f2a60cfcc07dc073c7ded6"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/render_log_01_08_09_preview.json",
+      "bytes": 382,
+      "sha256": "fe1854cf1adba3104447a7c8d58dc09b8d1c7c2a100207eeef03681e1daa1721"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/render_log_04_10_11_preview.json",
+      "bytes": 509,
+      "sha256": "6697c4978b3e63feca8622d059c8b635994eb304ff7440d67f68fdf155ba828a"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/render_log_10_11_preview.json",
+      "bytes": 347,
+      "sha256": "1a2220dba86c05742523ba1355cfc4312be1c4aa8e8279e291503cee650af020"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/render_log_all.json",
+      "bytes": 2740,
+      "sha256": "f35b8e4a1908e7e04807ff3a6cfe5439119cd646bee2698beb06709f85a065ef"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/scene_manifest.json",
+      "bytes": 379,
+      "sha256": "65149a968b534eb712b2a3d1ce3a3c10f455a8ff794291a3a116463653fd7e7c"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/validation.json",
+      "bytes": 212,
+      "sha256": "5f9e398fca3a73d92c8a7157ad1a5889d9b042b0da9d70a6d03980da67a3fc56"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/version_comparison.json",
+      "bytes": 2416,
+      "sha256": "c24993e73ec53338a633a99b0ec1335c06bb33e2872abf01bb1d57ccf0b39248"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/web_model_validation.json",
+      "bytes": 486,
+      "sha256": "11a96fb23fb1e3527dc026d9aa9702748d84907c6b778f41477913d9f87f8c96"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/qa/交付检查.md",
+      "bytes": 1825,
+      "sha256": "20ecfd53c9e09c86afed316ada7f047df63d18ff6ba310f8c914293399153272"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/render_views.py",
+      "bytes": 2234,
+      "sha256": "bcbd33fba01f75142aafe56a4e5c9079af2ba8b3806fced1bc5d277111af57de"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/01_Aerial.png",
+      "bytes": 4462932,
+      "sha256": "8e5477cd121181079a6f911ee7602972154cda840dbf1f9916a573f292670149"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/02_East.png",
+      "bytes": 4170648,
+      "sha256": "bd7eab084faacfc13e32a8556401dc18014b178c7f7481a538ddfb875843eaba"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/03_Courtyard.png",
+      "bytes": 4599604,
+      "sha256": "b8e15728c6d9edbd96bde4100ef782347f36e650b1fb7772e5402d0378757a50"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/04_Pool.png",
+      "bytes": 4640288,
+      "sha256": "e9524e93098d48ea08a00b35b19b6d33a7964599fcf5f78d1da3d5bcb721e81c"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/05_B1_Axon.png",
+      "bytes": 4227326,
+      "sha256": "3206c06d87faeedd6e3c1f1fb587fdcb18e6e8dfcff2bb6b28f1cbeb9e186a9a"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/05_B1_Plan.png",
+      "bytes": 4434032,
+      "sha256": "5462c03fcffad696f9dfa7ab2cee0278436a3e11925f042223af4bf40c846d8c"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/06_1F_Axon.png",
+      "bytes": 4248565,
+      "sha256": "e471a02460c86529cd8f3f1b9bf4a2abaaaa8b9b54e12a4f67a1b222a1f05e95"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/06_1F_Plan.png",
+      "bytes": 4430522,
+      "sha256": "24955de8b6a986f1388075ef8406ad78e84b9f7e1c0ba735fbf9b4a24be49f9e"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/07_2F_Axon.png",
+      "bytes": 4001222,
+      "sha256": "8618e2e8ef903e24e8729c57c12bb622e7b8ebd92ed3c55af5498e331d97dbbf"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/07_2F_Plan.png",
+      "bytes": 3977745,
+      "sha256": "652b9fb2d606150000892fbfedeeff7985e4439143af0bcfc901c95b44814efc"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/08_Living.png",
+      "bytes": 4567553,
+      "sha256": "9b03c42d02e96c12a778d3bcbdd501871a52c2860add9ccb8b8fdd12a30219e3"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/09_Master.png",
+      "bytes": 4521428,
+      "sha256": "26c625430c34494036bad35549d14b3049f8daf94b63530eb57e98f7143285c5"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/10_Kitchen.png",
+      "bytes": 4357470,
+      "sha256": "c493a19c9fbd83f8cf1b60a2e292089f79cac5a375acb9505893a656cb9b54ce"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/11_Twilight.png",
+      "bytes": 4299994,
+      "sha256": "d371df79b81c6029757e4a22b4abef124673de4b9a74b18f841ae292613340c9"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/12_3F_Axon.png",
+      "bytes": 3507111,
+      "sha256": "0777f338272e31fba0360e41e6927cf44ab272afdf6003a69d0ff126d478cdaa"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/renders/12_3F_Plan.png",
+      "bytes": 3573910,
+      "sha256": "68bd6884e0959ae7c4a3530ec83348b30a9b57245fe8811316834712c4de096f"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/room_schedule.json",
+      "bytes": 9736,
+      "sha256": "1f019f82615dbcc6f6673d74724800ad770c2ad00e7f53b058ff3ef34c7a67bd"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/limestone_color.jpg",
+      "bytes": 44949,
+      "sha256": "4a9b91d33c3798a54d54cbfbed3cad625b62815be16d05d0519935f2fb51c168"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/limestone_normal.png",
+      "bytes": 365894,
+      "sha256": "14d194c51423bf9ea9487332f4d433e0faaa8651f09cc919cf70a706496d95a2"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/limestone_rough.jpg",
+      "bytes": 66419,
+      "sha256": "c662883cfbb92ed9ac7cb077a7d3c2a8740ab55e6ef409ca66dd039f956a7970"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/linen_color.jpg",
+      "bytes": 254798,
+      "sha256": "5f02524d5ca0b5092589c51e14fd35a29f2ebc9eb1a3906dbd43ff7e04e4ecf1"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/linen_grey_color.jpg",
+      "bytes": 209594,
+      "sha256": "c6077e6ca05861f1eed3935685b09e0e5fc0567e3c6282252ee58b3dabe7ecf0"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/linen_grey_normal.png",
+      "bytes": 19935,
+      "sha256": "53be157089ccea69dbf693f61c9cf00549ddd711f15df5024f75cfbe6b18beb2"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/linen_grey_rough.jpg",
+      "bytes": 56695,
+      "sha256": "00cb83cf386819484b0d2279c0895c5d9207a7e00d0ef84a64641050136e2088"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/linen_normal.png",
+      "bytes": 19935,
+      "sha256": "53be157089ccea69dbf693f61c9cf00549ddd711f15df5024f75cfbe6b18beb2"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/linen_rough.jpg",
+      "bytes": 56695,
+      "sha256": "00cb83cf386819484b0d2279c0895c5d9207a7e00d0ef84a64641050136e2088"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/oak_color.jpg",
+      "bytes": 82333,
+      "sha256": "17dd76acddfb5c1179c2fc82fb8cf2e66d38555f6b53f3fbdc27ea476b360beb"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/oak_normal.png",
+      "bytes": 35592,
+      "sha256": "432d321be12e3e5ed493ef011a50ce3cf9d0afced1f2bc31452a76abff68effc"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/oak_rough.jpg",
+      "bytes": 52159,
+      "sha256": "f58841f84af45db558b684de2d4bb1845e2b96681bbfdfc5bbabf7a04594b8a3"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/plaster_color.jpg",
+      "bytes": 34598,
+      "sha256": "bbd5126d3b8602edc760f408b51fa7b5f19d3586de7e3215996fb5fc2a2fe047"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/plaster_normal.png",
+      "bytes": 364832,
+      "sha256": "5f68ec038897de25fa5c62ba4325f3734e37f5b970e956b20d3ef40d18cc9af7"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/plaster_rough.jpg",
+      "bytes": 63298,
+      "sha256": "28302bd6c8337d4bb273c85fde7410a1899290d507598eed4e93462730a70d3c"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/pool_mosaic_color.jpg",
+      "bytes": 118590,
+      "sha256": "55641d893f5858de4aaafab113e7e6fc4d66656ff228bfc4f8c43a13e808d16d"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/pool_mosaic_normal.png",
+      "bytes": 139283,
+      "sha256": "889eb794518e705135e4cf5cbffe9cc7a4d3f1feff636cc3f2d3ccff46999670"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/pool_mosaic_rough.jpg",
+      "bytes": 83473,
+      "sha256": "c76d595c8500c8c6297978cf43e50991491237a096cb7c89aa70dd99e02a8841"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/water_color.jpg",
+      "bytes": 17014,
+      "sha256": "86a00fbe18b0e4b110c99f425da3b852af006390f2938c86c8e1f5dc4c0d4ffd"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/water_normal.png",
+      "bytes": 308711,
+      "sha256": "42a42e8edbb1bc25b305bcc0f019d9fb90fe9bb6f4a1134c9d9ffe63a13c8239"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/textures/water_rough.jpg",
+      "bytes": 12620,
+      "sha256": "351c0cbfbf6bb057fb68f3058362f6925eaa357ff5b921c4c94015b14f8a961b"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/web_export/export_web.py",
+      "bytes": 3031,
+      "sha256": "d58adbd12b8f46be82d34b2af9c63997b7cae7f1200a8c059fee5e4907804d7b"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/web_export/manifest.json",
+      "bytes": 3002,
+      "sha256": "05943c2b507cc7c48bb4d283be654b861f3b089ca582e998b92dcbbda96f117c"
+    },
+    {
+      "path": "guanru park/展示模型_2.0/模型说明.md",
+      "bytes": 9619,
+      "sha256": "dbb3154c42c9244684f6f7ab3ddd879a65c560f895987946ae112200fa6cefcf"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/3.0升级说明.md",
+      "bytes": 12001,
+      "sha256": "e2194b6a0a691a8a7efb98c3c192a02edf9bae7dc05065eec6d6ca8d9e5928e5"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/Guanru_Park_3.0.blend",
+      "bytes": 31991676,
+      "sha256": "b51b2a9453a4f399faa42fb3e7c02b658fc102a7bd700f3781f33ec59e5b7dcc"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/REBUILD.md",
+      "bytes": 1441,
+      "sha256": "b9fc8ac07cac9ae84fcdabc9291257164710c06f6060be09ecc63ed28f1d1fdd"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/audit_v3.py",
+      "bytes": 1911,
+      "sha256": "4bf94d3e50d5afaf843ed62341e0748f5b3d2c7ced0d398c29f62631947e6ff0"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/build_villa.py",
+      "bytes": 58938,
+      "sha256": "f6902b49f9684762ee6cb89edf5297c3c15994cccc606bacef4fdabd1b3dc600"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/details_v2.py",
+      "bytes": 21235,
+      "sha256": "debe41189386b6edb558414069f6ed27fd4741e524f94ad97aef706a8fdcaff2"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/details_v3.py",
+      "bytes": 21395,
+      "sha256": "e278f4eeff5ba11c3ba141319dd5a679ab32092c608902abf6d7c1d5524d05bb"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/export_mirrors.py",
+      "bytes": 768,
+      "sha256": "7d4a1561de96da3aaa27d918f4f48c09a143b553ac8f3df706abd10aa08280f3"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/final_fixtures.py",
+      "bytes": 2440,
+      "sha256": "39d5b0a2d378c3095071c3f37aaabc7d25a8e98e362caeae39c2323c2ad3aba5"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/inspect_villa.py",
+      "bytes": 2602,
+      "sha256": "113cb3cfd9c28df89efa83de9a5fe9cbc239a4bed7d5091f051e1625996092c7"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/make_textures.py",
+      "bytes": 2654,
+      "sha256": "adecb06c7eebd7695b8eff20dbcd4e0b0accb090996151ac182701cf106e9408"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/polish_and_bake.py",
+      "bytes": 7374,
+      "sha256": "7991204cb8e8b77e92054e923ca176ae000fcaaef2561e18eea946490dfe3973"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/prepare_delivery.py",
+      "bytes": 1841,
+      "sha256": "13c4a43cfb14ac0f37e98a678850a6e374a4455ba22fd729a3533b5157849a29"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/05_B1_Axon_preview.png",
+      "bytes": 911869,
+      "sha256": "a2eddf8f9ec19ac1fb112f1131ff3ba0c045d37fd513d062cf1646449956135a"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/05_B1_Plan_preview.png",
+      "bytes": 952492,
+      "sha256": "723e49ebb1b15c00f2a3f807e838dd9e2d5418f579512d874075372a05c77524"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/06_1F_Axon_preview.png",
+      "bytes": 912833,
+      "sha256": "ca8669f0afd8da998b92c3c3a9947c3c8b0d80bb8887f8bd6bf16f3dffb0a098"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/06_1F_Plan_preview.png",
+      "bytes": 943777,
+      "sha256": "bd0c0ebdfdbf6bcd3bf69fb6b2e6fd781503d3746dd82de3abfe7126b3334c8a"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/07_2F_Axon_preview.png",
+      "bytes": 866631,
+      "sha256": "7599b22223189c2d4deed895b24b8cf3812bfd599d7a306b1e3af2b8159e7f78"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/07_2F_Plan_preview.png",
+      "bytes": 850260,
+      "sha256": "4b672c25cb774767456920da57de7f19fbb2a9242abdaa292b8409011609b290"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/08_Living_preview.png",
+      "bytes": 1024349,
+      "sha256": "d6aaae111a4273f39d696d1464ff1fc06b76ff43a9fd283568a67d9787d2c2d6"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/09_Master_preview.png",
+      "bytes": 1042115,
+      "sha256": "f949791a1bb88bbd146f7091dc1bd010da2730270bb22e22b4a5e5b4081b8944"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/10_Kitchen_preview.png",
+      "bytes": 988173,
+      "sha256": "0b112ba2f58311112ba0c44fa6c7a31437e43a3380892d8508a7ff737c12f1f1"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/12_3F_Axon_preview.png",
+      "bytes": 744563,
+      "sha256": "153724c395c7c4bc48d48394b78643c2224c48a4d6af9a3cd619817a29664cf4"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/12_3F_Plan_preview.png",
+      "bytes": 733612,
+      "sha256": "e8bbd12f77ed78a1e7a14221bd38fdea640be8ef86db51db8d1f600a13a65e58"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/13_Bath_preview.png",
+      "bytes": 966456,
+      "sha256": "fdaa4889855e4f19d3009d6414467bf092c02f0c5c00292311b5254c377c2c2f"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/14_Kitchen_Detail_preview.png",
+      "bytes": 930545,
+      "sha256": "dd43812b846b58e3b43137cff04ff388dbf58be24d7a5e08549625fef4f7d117"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/15_Chinese_Kitchen_preview.png",
+      "bytes": 835052,
+      "sha256": "10f8d74ea6e1241d6002bf8ef0ca8845afbf0f3b82b49051cb399af542369867"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/asset-audit-v3.json",
+      "bytes": 2845,
+      "sha256": "b5175ce0e7c70abae1008caf46232c803179b6d1f2af52e8104111645334f56c"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/cabinet_replacements.json",
+      "bytes": 4664,
+      "sha256": "5aac435f27e0d4a94a2810e542f0139e6148864f6c88d30d9b0a5e91cbde9a56"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/display_mounts.json",
+      "bytes": 714,
+      "sha256": "88c7c8e6683afa327a527afc02d2fa205cc9f6d2898bd2a55a3fa0a56564d2b8"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/lightmap_bake.json",
+      "bytes": 362,
+      "sha256": "1b4f1753bfc720ac907e3b1d959a5842a3dcf3c1151940050d680b11eb4ac2e5"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/model-validation-v3.json",
+      "bytes": 507,
+      "sha256": "acc3f3a671b89e2bea6d26888a8e065b3cab7024460c3d90ba5795f562699317"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/performance-v3.json",
+      "bytes": 4292,
+      "sha256": "998e05f3e832887a398c82c9af924a6e5001c599e72a71e4a22da49b88c0ca1d"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/publication-v3.json",
+      "bytes": 6288,
+      "sha256": "f63636d779d8596ecb043c91ffa6ca6b042fbe1d2d2e9d4d84d79568d9ca8336"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/render_log_08_09_10_preview.json",
+      "bytes": 509,
+      "sha256": "d49ad2834ff513e5d668a6c02b81613175e80f3e60ae723646bd9951725b4b74"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/render_log_11_13_14_15_05_06_07_12.json",
+      "bytes": 2090,
+      "sha256": "6e5fe7efdb293feabff09332393bb0f975c6ed1caa1e2874b537ca59f4f3abc8"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/render_log_13.json",
+      "bytes": 167,
+      "sha256": "002fde139d864186f175ec6f617788f8a3cf02ee5fff71e5413d036715c3b5fc"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/render_log_13_14_15_05_06_07_12_preview.json",
+      "bytes": 1938,
+      "sha256": "372180cc32908218f2093449bf19717e2be32828d83d7b631e242f8ea9b36229"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/room-audit.json",
+      "bytes": 14923,
+      "sha256": "26e161e05078fb6d6301ed11ef9b4c87995f37c29a07f0bbbf903bd05658424a"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/scene_manifest.json",
+      "bytes": 380,
+      "sha256": "ff5c6c817295b19b9558fe0db7379b73c7f04c0185f39f9636c22258b001d1d6"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v2-browser-aerial.jpg",
+      "bytes": 62295,
+      "sha256": "6f187c9168f8c4b6896e33a6c3776ca958151f60369f192466b151d25d251cb6"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v2-browser-kitchen.jpg",
+      "bytes": 95260,
+      "sha256": "075afc67aa9a47a1928a3fe8aaf18ba76102fe4b9e3a6f3f6c726dfdbc47e729"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v2-browser-living.jpg",
+      "bytes": 106842,
+      "sha256": "b2bb41bf28dd676429f90300d9998a722eb8bfe2d6a0fc01ba6b23d0583deaad"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v2-browser-master.jpg",
+      "bytes": 99260,
+      "sha256": "b5a459eadf38bdc6242cfe5b252e71550ff0d1023f178e0cc248fd0d7127ea8e"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v2-browser-section.jpg",
+      "bytes": 82623,
+      "sha256": "80424e2b325cd896745a23a166da537a481ce3cd1ff69307ae6ba7dfb87a2010"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-1F-plan.png",
+      "bytes": 85521,
+      "sha256": "ca6813b4fed1c35a5348275cd6b5abbdbeb9dcfbd62741850fb1857c04cceebb"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-2F.png",
+      "bytes": 72966,
+      "sha256": "3e5585fc1f21b71bc6908c595c42687e449cd2ba448a93758d148527a120b6a7"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-3F.png",
+      "bytes": 60350,
+      "sha256": "15b032a75e85ea8c0441dfa93ae99541596bc06d095be010557bd8c0ad298092"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-B1.png",
+      "bytes": 78548,
+      "sha256": "5d9bf2fa6984aabca2eeaed7d7e55087a6a42328368430c8280c4c9133414e8d"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-aerial.png",
+      "bytes": 86390,
+      "sha256": "3f1f465d64ec093cf736039baf4bdcc258bb4ff77a27f6a9a3da1c7b52bd4612"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-bath-standard.png",
+      "bytes": 91532,
+      "sha256": "cb379f383df355bdad234b166daa9528f29f837c790cc8674f64ff375b7ba749"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-bath.png",
+      "bytes": 94510,
+      "sha256": "f4cc91e6b219c199411d3ed5cb34a9a5191148ca35859fd297be6d9347f06955"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-chinese.png",
+      "bytes": 92139,
+      "sha256": "520dfc0c428b6316b1a11652be4135d5a49fe20400dbcce388699861352c80a8"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-cut.png",
+      "bytes": 80969,
+      "sha256": "5290db8856c1eb5422f3140345b66a96a9208ce052be76a3ae8e7597f9c299c9"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-dining.png",
+      "bytes": 87118,
+      "sha256": "3b50a504f54c174f07869d67d4e5033b6201de59de478920c19ac6e036ad4685"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-evening.png",
+      "bytes": 92853,
+      "sha256": "729980b7abfdee4fd2d11624ed0cdc2ef296d0d89bf213f859782ed7bb63b65e"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-exploded.png",
+      "bytes": 83716,
+      "sha256": "c4ab687f5a61299c572a1413c29cc0cb48501d3dd7bd1daf7f3c3b1629bf67c3"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-focus.png",
+      "bytes": 117510,
+      "sha256": "635cbac71166c5ed7ecfeed47e792a5493e5f76d38008d389453922be033f7aa"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-kitchen.png",
+      "bytes": 110359,
+      "sha256": "1f609d995f903934ed5b8f8a6ac55f28fec6777e0d3292ff9cc5f11c0b6254cc"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-living.png",
+      "bytes": 112072,
+      "sha256": "0aa6a086dd0d43607d85c210c3419c19bfc18df24060ef16cbeac8fb3471e970"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-master.png",
+      "bytes": 110174,
+      "sha256": "d521d88f4a2c9040f2b3abf7c965d4a557c35f098f03d5860a7f0de07908a033"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-no-furniture.png",
+      "bytes": 84740,
+      "sha256": "fa4f75bad7811893c2d19e87b6b61d53b6e520e02055d81b402bb29e31acb619"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-office.png",
+      "bytes": 81403,
+      "sha256": "78c448747c5924b66ef97e4af22b2d7b40d9d0faadbee8b3e072252c546374e6"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-pavilion.png",
+      "bytes": 87746,
+      "sha256": "9249096f07dfe42ee1fb1b28e1f532f8ac1d034c04517531b7e8ed7842d21109"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-roof-reveal.png",
+      "bytes": 93941,
+      "sha256": "3173bedbf186c22d5baee728b3850195578f29ad7b146d320972e6ca5dac3657"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-section.png",
+      "bytes": 83410,
+      "sha256": "567e2f506b94df2e36bbf4ed141b36adc7bbb2be37b5c0f085e63a74eae20a6a"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/v3-browser-standard.png",
+      "bytes": 86176,
+      "sha256": "53663c9682880c9fcfabd44334b982373bcec3201f7e76d900d90e4df3c7fdf4"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/validation.json",
+      "bytes": 213,
+      "sha256": "5caced6c47198aa67ef0c6f018ccb6cb4abfe72ed14048313f3402050c5a9244"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/浏览器对比.html",
+      "bytes": 1961,
+      "sha256": "ca1702f2d8a9aa798c556789b4af8e516e635af1d3d56c868707aa530ba7db56"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/qa/离线效果图对比.html",
+      "bytes": 1878,
+      "sha256": "82a2f44011995ffe8e4256a663efe33db8fc8f46d20c1022836024520f92dba0"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/render_views.py",
+      "bytes": 2549,
+      "sha256": "5cbc7b01ebd5d780befd2616d10273e8b5fa761a3171e2dbd45b6b4de7bcaa1a"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/01_Aerial.png",
+      "bytes": 4500367,
+      "sha256": "63f156858ccc676669496af6607e79ea38d790932cdcc3c8c3885711a50d085d"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/02_East.png",
+      "bytes": 4216813,
+      "sha256": "8bf96822829e453a994c351bf69e9928277ca4a5633d68903f30b0da46bf2790"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/03_Courtyard.png",
+      "bytes": 4643288,
+      "sha256": "2d73a172f97632205abd49e5233c94ab7708b0de18a9457281dc89a5b31d4792"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/04_Pool.png",
+      "bytes": 4730327,
+      "sha256": "00fa493e810c2f223772223aee8b58c2606ada06e90ffd930d0e76571793340b"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/05_B1_Axon.png",
+      "bytes": 4149886,
+      "sha256": "2188f8713297d3177274d7166592fe15d35e321ab0c8d91eff0d7f33c9c3fe42"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/05_B1_Plan.png",
+      "bytes": 4343497,
+      "sha256": "366ffd81308b2153cc56c20ed867caa723c637fc5364356577b66b53dbadc272"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/06_1F_Axon.png",
+      "bytes": 4198327,
+      "sha256": "e8f00f4f767e75bccc00fba0cfddb0967029c4b28189cc89e478335f3edbacd7"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/06_1F_Plan.png",
+      "bytes": 4357422,
+      "sha256": "3563359a5da6c0db9322b3a74375f4eb5cc69cab9a9e7543f140702dc0b1173b"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/07_2F_Axon.png",
+      "bytes": 3984188,
+      "sha256": "1cfcc7b326d97ed1f5fc6421b931269d44d8e8529756669c9ff4125a09c11e77"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/07_2F_Plan.png",
+      "bytes": 3947048,
+      "sha256": "0692c263fdcffe5481ef3453ad4395ae8fd52dc557df1728f1fe4181da5287b1"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/08_Living.png",
+      "bytes": 4549406,
+      "sha256": "3c469ab1791235083a8686fd576a37fb490ad457a6e4620262fee2ec06c2f32c"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/09_Master.png",
+      "bytes": 4561053,
+      "sha256": "9ddcde05bf06875cb3e1aa5e7f7792e6ca5282c2e0e44cce7b6b593f3eba1c78"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/10_Kitchen.png",
+      "bytes": 4466798,
+      "sha256": "4919860a6eacd0e2ccf301c8b011479da940e79ffc5072dd7914df3bf3cecf06"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/11_Twilight.png",
+      "bytes": 4402894,
+      "sha256": "8e7c582c5aa8a2170b2c61647ebc3fc9032cd57103af81959bae014e8d2cc516"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/12_3F_Axon.png",
+      "bytes": 3506390,
+      "sha256": "d961275b5acd52d6ba3f6d87011d9d6af9660375a2bd7eb8a461f42e7c6d1cbd"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/12_3F_Plan.png",
+      "bytes": 3546478,
+      "sha256": "beaa0a70290357ba13d123710599e0a6d1c460b0ca33a198dabb65600ab07c66"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/13_Bath.png",
+      "bytes": 4500788,
+      "sha256": "a6d39aad4e59f3313a3390ca172018c7ea6b945743c51cea3e60c4c3cc29ff49"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/14_Kitchen_Detail.png",
+      "bytes": 4287209,
+      "sha256": "46bd4fd8396249abe6897cdc16a6f28b115f6869d44644b45a59661a85824060"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/renders/15_Chinese_Kitchen.png",
+      "bytes": 4396963,
+      "sha256": "c704499547176e604570e74eed09fab71ef73d8e757b3da06c74e727a9b01208"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/repair_bath_mounts.py",
+      "bytes": 1658,
+      "sha256": "0dd4bb0c84a74dfc38994713ce3287357438503cb1a970d35e5f9f478d250b63"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/room_schedule.json",
+      "bytes": 34853,
+      "sha256": "ba1b40d73e38c6e3d556026a742c0889c25c5ee9f2e438c5ea7074fd64223058"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/limestone_color.jpg",
+      "bytes": 135889,
+      "sha256": "14c97c2be8c737ec250061da9b8183de6abedd6c07d795f57c47e83512353c12"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/limestone_normal.png",
+      "bytes": 1141216,
+      "sha256": "1d477e6d905fcfc945ef84a3d3e81bfa4d57d24e3fe93ecddff43f4201309900"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/limestone_rough.jpg",
+      "bytes": 202297,
+      "sha256": "1348408e8130e9eb8a046aef8316f61c13e2945ae201eb96b817bb89bc416d5c"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/linen_color.jpg",
+      "bytes": 836467,
+      "sha256": "f2de6ea5cf55f923976d82485418fb6a3326468343d25ff6e9ee07ab5917b3f8"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/linen_grey_color.jpg",
+      "bytes": 777098,
+      "sha256": "660265b5a9c7d7d166c37eec6d42c3bb18b45f5040d1eaf5940cfa1f8dad67b2"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/linen_grey_normal.png",
+      "bytes": 81373,
+      "sha256": "b17ea09a21bc7a62490214f895fc9171898f953cf01473be0e188621839b6c39"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/linen_grey_rough.jpg",
+      "bytes": 160976,
+      "sha256": "f5b48e0bb314728289be1fad6e9ff77a9a80259c6cb3e4e6f026a0f49d1024e9"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/linen_normal.png",
+      "bytes": 81373,
+      "sha256": "b17ea09a21bc7a62490214f895fc9171898f953cf01473be0e188621839b6c39"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/linen_rough.jpg",
+      "bytes": 160976,
+      "sha256": "f5b48e0bb314728289be1fad6e9ff77a9a80259c6cb3e4e6f026a0f49d1024e9"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/oak_color.jpg",
+      "bytes": 238776,
+      "sha256": "802b8ca1ba67ae966194ab7a8eda772422f85166f58a25f4ad70e1a24cb7b902"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/oak_normal.png",
+      "bytes": 90903,
+      "sha256": "9700dc0f678335686b23fe1dd7048e410a9a24cc8cfb2d0830c2cfd3cea27ea5"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/oak_rough.jpg",
+      "bytes": 144457,
+      "sha256": "6333af89b34d65bea7ced5732ebfd73d824bbe4abb59e08eaebfda8dfc0edb8f"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/plaster_color.jpg",
+      "bytes": 109975,
+      "sha256": "c26b7edbf174db3c924b85591754ad8dcb0a8a01e38522a3c6e770744d3c2761"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/plaster_normal.png",
+      "bytes": 1126319,
+      "sha256": "adf178314b10749a59b03e5325ff797faf720037e4e1c370662fae67a1ec134b"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/plaster_rough.jpg",
+      "bytes": 177439,
+      "sha256": "95064ba5b519944f160a6dec9fadefcb7ba278943bcba36adb69e7631ce45045"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/pool_mosaic_color.jpg",
+      "bytes": 290066,
+      "sha256": "3e54165b6de0b87c0ee073e1f137f8c8aabdb590c068dfef1399540604986594"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/pool_mosaic_normal.png",
+      "bytes": 371336,
+      "sha256": "65b5c0b2f2c90ed9a270b9a880d8fd1ce3f2465ea2fe54f7ca0c4c0d3b768c54"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/pool_mosaic_rough.jpg",
+      "bytes": 196150,
+      "sha256": "600d7d5b5247e51f097a481961bfcd95acc73d5dba378ddcece06298d1909ce6"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/water_color.jpg",
+      "bytes": 66166,
+      "sha256": "a2df92d4632a4008be1332efda939b820f05cbd226cf2cdd5eca580a854fd27f"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/water_normal.png",
+      "bytes": 773464,
+      "sha256": "8a0bdc08f1bfe009b7f4d8bb1a28c9f7a931451e7fc63746540723397e3cd34d"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/textures/water_rough.jpg",
+      "bytes": 49484,
+      "sha256": "2a605d4b62fd026737eb4d8832c556816b5934ada640ac0168c5a3044b034873"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/web_export/export_web.py",
+      "bytes": 2851,
+      "sha256": "7fd3dff050b8b425b3054e72af410e05b6009a5c98cc67b7e59a069371f66508"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/web_export/lightmaps/1F.hdr",
+      "bytes": 6780576,
+      "sha256": "a389399b96ba46c8417ab33784ac1d257fda5244e5e4277a0c4cd494a9c2b4ab"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/web_export/lightmaps/2F.hdr",
+      "bytes": 6586799,
+      "sha256": "31ce6ce08fd1595b13502772aaeedec6732317c00e38e4b1e5e9617cbe0da298"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/web_export/lightmaps/3F.hdr",
+      "bytes": 5860864,
+      "sha256": "1d9e13a64b8cb36f2ea4fcbbae0bffc606a4620ac641698d3efa56526bfdefbc"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/web_export/lightmaps/B1.hdr",
+      "bytes": 6672950,
+      "sha256": "6d9e26670dc19f0d6a7df62c842cef3eb269e262c7e3a48f06989081c6f00be9"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/web_export/lights.json",
+      "bytes": 26021,
+      "sha256": "2858f7fb7d053748615f6bef941147ed28e8c6fcb51c838638719b49c8b2f729"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/web_export/manifest.json",
+      "bytes": 3650,
+      "sha256": "0428ae6c4c5319209107ccd0486142a7f3211833307439dd2935d79b5f139b8d"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/web_export/mirrors.json",
+      "bytes": 2619,
+      "sha256": "d80459f21e4d98c75b51032a7d6351bad91f23b049c472c5a939e7d97a017557"
+    },
+    {
+      "path": "guanru park/展示模型_3.0/write_upgrade_note.py",
+      "bytes": 6643,
+      "sha256": "6a359c042d9bc58222da601020b728fbd211ba3176c9444ea42f8256d90a850c"
+    },
+    {
+      "path": "guanru-park-web/.gitignore",
+      "bytes": 411,
+      "sha256": "97473fc2046993173165724c7b13394788a3bf60407cacb9a30c9b826b476eea"
+    },
+    {
+      "path": "guanru-park-web/.openai/hosting.json",
+      "bytes": 90,
+      "sha256": "587dee7bfb8c3a6dc1733cd0fed095a4c6bb89b3054830fadbfd8eb77279c218"
+    },
+    {
+      "path": "guanru-park-web/.oxfmtrc.json",
+      "bytes": 260,
+      "sha256": "0962fdddb1840a06b5afb918ff3f2ff56bce346082651ec5c3567c01dd809f17"
+    },
+    {
+      "path": "guanru-park-web/.oxlintrc.json",
+      "bytes": 1370,
+      "sha256": "1a7aa1c7d83b05939e4e697eed9316224caea8958c4ad12837f8be740c13a47d"
+    },
+    {
+      "path": "guanru-park-web/README.md",
+      "bytes": 2457,
+      "sha256": "9a8850e994a0df518b2693dd49c8073946912579887a98e89401c846cd3ae408"
+    },
+    {
+      "path": "guanru-park-web/UPGRADE_V3.md",
+      "bytes": 1668,
+      "sha256": "235ef54c68572ab07a5a2b8c64dad9098bc69e297f64119ab96504f1dec41407"
+    },
+    {
+      "path": "guanru-park-web/app/globals.css",
+      "bytes": 18771,
+      "sha256": "b6eefaa8029e2bc29d48687edc3a2f108cab5e63dba730c25a68ef94371098bb"
+    },
+    {
+      "path": "guanru-park-web/app/layout.tsx",
+      "bytes": 454,
+      "sha256": "37b9c3c55672acb9036c615e4ec1415229eb0b0fbe473ddd05b837849c4f8e01"
+    },
+    {
+      "path": "guanru-park-web/app/model-state.ts",
+      "bytes": 5660,
+      "sha256": "b49a4dfa40ca465d55d0dd5b3a0030e3e952b07f3674c007209237d1ac74ebf4"
+    },
+    {
+      "path": "guanru-park-web/app/page.tsx",
+      "bytes": 20308,
+      "sha256": "93cc36b751ff06f046b9e123b50f4923cb156d8e2a7001e422e0db0def1217eb"
+    },
+    {
+      "path": "guanru-park-web/app/viewer.tsx",
+      "bytes": 29564,
+      "sha256": "2f6578adf2681f9548dd1898c4e2e14cb055b631a33676b8c63471df316f8117"
+    },
+    {
+      "path": "guanru-park-web/components/ui/accordion.tsx",
+      "bytes": 2664,
+      "sha256": "33e1c60ba503f4eb36f9a8b1f68b236174b11656d8efea6bac65abddda2f9019"
+    },
+    {
+      "path": "guanru-park-web/components/ui/alert-dialog.tsx",
+      "bytes": 5301,
+      "sha256": "ed0f1fc432bca4c72f9dd8741ae2268a00d2d3429ff1149bf463c4271b13d8e9"
+    },
+    {
+      "path": "guanru-park-web/components/ui/alert.tsx",
+      "bytes": 2060,
+      "sha256": "e760c470414c9e617d7292094146d906352fee3b1526b790a611d4a118e79196"
+    },
+    {
+      "path": "guanru-park-web/components/ui/aspect-ratio.tsx",
+      "bytes": 406,
+      "sha256": "b7fb499905e441a0602392ce118828425ad059079060109694d01f9fac00ad20"
+    },
+    {
+      "path": "guanru-park-web/components/ui/attachment.tsx",
+      "bytes": 6132,
+      "sha256": "dcb9e899f1322158f016d75c400fa8cce9b797ea49bec65528bac686cee2ec5c"
+    },
+    {
+      "path": "guanru-park-web/components/ui/avatar.tsx",
+      "bytes": 3056,
+      "sha256": "342f32b683937b826cdff2999d5e3057836d459aa43eadb0c3538b818d195b9a"
+    },
+    {
+      "path": "guanru-park-web/components/ui/badge.tsx",
+      "bytes": 1934,
+      "sha256": "5706189b86e8670499fb33f37147dd6f65c39d59eef5211e34157f2952c35e32"
+    },
+    {
+      "path": "guanru-park-web/components/ui/breadcrumb.tsx",
+      "bytes": 2602,
+      "sha256": "b28b76d6f8d0feafbbeff2220cf83f9a6b03d8c81f0145b3af4c7d19933ab2c0"
+    },
+    {
+      "path": "guanru-park-web/components/ui/bubble.tsx",
+      "bytes": 4828,
+      "sha256": "dfb9f52ae3b89e4a419b336c3893ab6fb658fc324fb402759d878d54e3b2db5a"
+    },
+    {
+      "path": "guanru-park-web/components/ui/button-group.tsx",
+      "bytes": 2494,
+      "sha256": "79ad8fb6644a775cc49131c1aa737ca26cae6a563beec0fa52ef6e8d85202fab"
+    },
+    {
+      "path": "guanru-park-web/components/ui/button.tsx",
+      "bytes": 3247,
+      "sha256": "081d2a1cb4f3aec636a6894d9eff4e90d476d5db85b82d0399c1f4d18517112e"
+    },
+    {
+      "path": "guanru-park-web/components/ui/calendar.tsx",
+      "bytes": 8503,
+      "sha256": "e7bc682eff8f2215e6b0aab40d1afb7ee927c5f5bef348ccff207631b9261658"
+    },
+    {
+      "path": "guanru-park-web/components/ui/card.tsx",
+      "bytes": 2645,
+      "sha256": "625fce5e16577a45108a86d7afcd70b8931cb2032abe0d6a3faf1010f666d672"
+    },
+    {
+      "path": "guanru-park-web/components/ui/carousel.tsx",
+      "bytes": 5727,
+      "sha256": "7444126492d4e0b85b1270f0d83a0955350fa95b3d3fb7b88edc2a5c2b4e5d14"
+    },
+    {
+      "path": "guanru-park-web/components/ui/chart.tsx",
+      "bytes": 10581,
+      "sha256": "56ab0e0b41f0cc7902414e046ea4f710bdbf0b756028672ea8c7e5137a278f2b"
+    },
+    {
+      "path": "guanru-park-web/components/ui/checkbox.tsx",
+      "bytes": 1538,
+      "sha256": "56b2869e5478f38238e6a3d8aefabfbe8af565b38b2ffad06466487b3eacf154"
+    },
+    {
+      "path": "guanru-park-web/components/ui/collapsible.tsx",
+      "bytes": 664,
+      "sha256": "3fdf7ef1ca89c4d85de5ecbb25813d0f572003a53b021baf43c5f3523e48ec97"
+    },
+    {
+      "path": "guanru-park-web/components/ui/combobox.tsx",
+      "bytes": 9135,
+      "sha256": "282041e2e8c52cc12e7bbc717bbd3f8c9c5ba18e7fa75b97053bc79687e1181e"
+    },
+    {
+      "path": "guanru-park-web/components/ui/command.tsx",
+      "bytes": 5029,
+      "sha256": "9c1eae65aa105935a34c6b736f673b71a2ef939dde53dce29d986221edbf1f9f"
+    },
+    {
+      "path": "guanru-park-web/components/ui/context-menu.tsx",
+      "bytes": 8166,
+      "sha256": "05c3646b452f5e3b9eb952eeba3d90657606d2b0875cb77652cdb5eadba0eb5c"
+    },
+    {
+      "path": "guanru-park-web/components/ui/dialog.tsx",
+      "bytes": 4087,
+      "sha256": "8bc85def62538b4e62e8530c6b0ba167a192c38519c05f104bf6e10de73b811f"
+    },
+    {
+      "path": "guanru-park-web/components/ui/direction.tsx",
+      "bytes": 105,
+      "sha256": "2dea8a95accb1723db2454ccc858697d5b1f1454568cf4da5e8fcbd0cf7cc1ee"
+    },
+    {
+      "path": "guanru-park-web/components/ui/drawer.tsx",
+      "bytes": 11396,
+      "sha256": "b7ac53d0e5d1fed25fc3f2ac5f5a36e247ca684c677ac376829fa8a7c039b79e"
+    },
+    {
+      "path": "guanru-park-web/components/ui/dropdown-menu.tsx",
+      "bytes": 8809,
+      "sha256": "efc088f3d79f64cf96e222701ae23dcf385b53947b3cd57ffb7be6f5dadcbfe2"
+    },
+    {
+      "path": "guanru-park-web/components/ui/empty.tsx",
+      "bytes": 2415,
+      "sha256": "bf54bac4881b79f6a53f55e70c18640f58a058add88aed763c71be35c4f64f59"
+    },
+    {
+      "path": "guanru-park-web/components/ui/field.tsx",
+      "bytes": 6303,
+      "sha256": "79023ca89aae39f9cffa83a9483c9c672099b4547cc821486283db61c6ae9327"
+    },
+    {
+      "path": "guanru-park-web/components/ui/hover-card.tsx",
+      "bytes": 1863,
+      "sha256": "d8cb7270c5893213fc00b5f270f9bc461e2d7ce5b81f77b8778253a1aeda6a2c"
+    },
+    {
+      "path": "guanru-park-web/components/ui/input-group.tsx",
+      "bytes": 5289,
+      "sha256": "2e65ddecb4401220be374cc6cfc42344538266cafeb2e590b3c760c7ed6b490a"
+    },
+    {
+      "path": "guanru-park-web/components/ui/input-otp.tsx",
+      "bytes": 2558,
+      "sha256": "867f568259caac95f682d128d72e681b3fe7c31701a396eacc9284401d917a6a"
+    },
+    {
+      "path": "guanru-park-web/components/ui/input.tsx",
+      "bytes": 1046,
+      "sha256": "6763c86c34c1c07826386d376f5da8fe2e41585bff3615716d5da88915e088d8"
+    },
+    {
+      "path": "guanru-park-web/components/ui/item.tsx",
+      "bytes": 4888,
+      "sha256": "9c5e45e6c4aae5b9c4c1304e1f1208d32681ab616a6e0de9de6e0d6b22690592"
+    },
+    {
+      "path": "guanru-park-web/components/ui/kbd.tsx",
+      "bytes": 842,
+      "sha256": "bdfb38a4f7b9b604e196b5cee0d86f12311dae72946f0dbf5928c8ad0638178f"
+    },
+    {
+      "path": "guanru-park-web/components/ui/label.tsx",
+      "bytes": 524,
+      "sha256": "e4a6fb662c44a44c468d16d79d02b3a3e5bf7b77bd50aef1e586c4d9613df0f6"
+    },
+    {
+      "path": "guanru-park-web/components/ui/marker.tsx",
+      "bytes": 1962,
+      "sha256": "cd1e872384cf5001e48b4dc3cc2bb011eba9700561d41c83a89e872b60baf175"
+    },
+    {
+      "path": "guanru-park-web/components/ui/menubar.tsx",
+      "bytes": 8315,
+      "sha256": "a3715f8e8b78261f5784929c532e100759c58e831c91e842438730797bc9a124"
+    },
+    {
+      "path": "guanru-park-web/components/ui/message-scroller.tsx",
+      "bytes": 4070,
+      "sha256": "9512c586d1b0885cf3ae4f1c3dd4281cbdfec7428fe98ff48a66b4ba2a7319f4"
+    },
+    {
+      "path": "guanru-park-web/components/ui/message.tsx",
+      "bytes": 2246,
+      "sha256": "2fedcc64ed8563a44f6697615e77574d96f819fe6e5e2fa8a555e30f8ed6bbd7"
+    },
+    {
+      "path": "guanru-park-web/components/ui/native-select.tsx",
+      "bytes": 2133,
+      "sha256": "3aafb74b98c039dae4eb2c64c47ec6f5d61fdc888c057de47550346f702f434b"
+    },
+    {
+      "path": "guanru-park-web/components/ui/navigation-menu.tsx",
+      "bytes": 7436,
+      "sha256": "c8e64bf5241145b512ae18f1062da8275691edf927736496a3860bec76ad6fa1"
+    },
+    {
+      "path": "guanru-park-web/components/ui/pagination.tsx",
+      "bytes": 2928,
+      "sha256": "1f3c1713e8824cca7c3c0edacf9da7b0114bfda58640771b8fe0bc6179b370ce"
+    },
+    {
+      "path": "guanru-park-web/components/ui/popover.tsx",
+      "bytes": 2586,
+      "sha256": "7376624438588e2d64b6e0c5cdf82cbc5fd4530bbcf1f0235c5f3ee08d12e877"
+    },
+    {
+      "path": "guanru-park-web/components/ui/progress.tsx",
+      "bytes": 1751,
+      "sha256": "0d8ddec9731940e104b851cf3ac67d2fa8589b289824317a9e8f326e090ba65a"
+    },
+    {
+      "path": "guanru-park-web/components/ui/radio-group.tsx",
+      "bytes": 1843,
+      "sha256": "43f2d6c2f5bdd4a26c57d93e6f141be20472f9bb8777d9a0d61cd8a5e281a999"
+    },
+    {
+      "path": "guanru-park-web/components/ui/resizable.tsx",
+      "bytes": 1681,
+      "sha256": "ea7b85817d4dc70866e0bcf15264e7e1bd7e1893eb4404261fbc23a4d6ff9029"
+    },
+    {
+      "path": "guanru-park-web/components/ui/scroll-area.tsx",
+      "bytes": 1632,
+      "sha256": "730c4cc49f8f1b705eb1389cd32c774056a0a2a7a48a9b092cbe44c608be3a0b"
+    },
+    {
+      "path": "guanru-park-web/components/ui/select.tsx",
+      "bytes": 6700,
+      "sha256": "45489c502a21fdd5271481d64ad8f762181c9653d8d26bdc6f75450b78c3c852"
+    },
+    {
+      "path": "guanru-park-web/components/ui/separator.tsx",
+      "bytes": 551,
+      "sha256": "92ad5065f03d7edc98f367e729f3ec84ece1d99ee8cd0d3a8137f266d4ab3d8a"
+    },
+    {
+      "path": "guanru-park-web/components/ui/sheet.tsx",
+      "bytes": 4446,
+      "sha256": "adb432b6f9d7a4733caa45ba8bf510a8a7ff0f6d0dd3aa1f013959fb61268234"
+    },
+    {
+      "path": "guanru-park-web/components/ui/sidebar.tsx",
+      "bytes": 21779,
+      "sha256": "aa3322ca63f098aa1d2abf750f9d097da07362fce25939357f2cefc9b6a03988"
+    },
+    {
+      "path": "guanru-park-web/components/ui/skeleton.tsx",
+      "bytes": 278,
+      "sha256": "4c342102b2bbf5bd8c04fa151fe5c13c42faee2f9587a3586c27322020ca35d1"
+    },
+    {
+      "path": "guanru-park-web/components/ui/slider.tsx",
+      "bytes": 1879,
+      "sha256": "af657e73d672f4dd205f19abf151d21a172cf36abfdca49fd7014a20e12367a9"
+    },
+    {
+      "path": "guanru-park-web/components/ui/spinner.tsx",
+      "bytes": 360,
+      "sha256": "8ddbb330e5564a1f53026da36c2322ed4b027687e91a88f63348ab10f26ae0cb"
+    },
+    {
+      "path": "guanru-park-web/components/ui/switch.tsx",
+      "bytes": 1818,
+      "sha256": "04b085443a1c6a72d408e6eb7dd45df881ca27814415b81b39f614806b52c8fc"
+    },
+    {
+      "path": "guanru-park-web/components/ui/table.tsx",
+      "bytes": 2418,
+      "sha256": "88f2ba7877eea7f34a5da18b7fa096eb2c7bed602677ce54f5494b494c5afc2e"
+    },
+    {
+      "path": "guanru-park-web/components/ui/tabs.tsx",
+      "bytes": 3510,
+      "sha256": "dd914d769bc223b5d5ea56839a7752e534eb475f8d2897d5675606c368bbca1f"
+    },
+    {
+      "path": "guanru-park-web/components/ui/textarea.tsx",
+      "bytes": 847,
+      "sha256": "7ae7f0f5d907be24658652c771fee1685193102bf3200aafbf578d144d379fbf"
+    },
+    {
+      "path": "guanru-park-web/components/ui/toast.tsx",
+      "bytes": 7353,
+      "sha256": "9126b09f47f0b117bf748cf19aaa4987a1f72d0813d10bfc4b4b0128e6439e48"
+    },
+    {
+      "path": "guanru-park-web/components/ui/toggle-group.tsx",
+      "bytes": 3201,
+      "sha256": "9b006523be0fe3230cd75f7adf78a501829d594fd3506c56c55bb38211ff1850"
+    },
+    {
+      "path": "guanru-park-web/components/ui/toggle.tsx",
+      "bytes": 1770,
+      "sha256": "6bf41d6f6ffe602c3e28274a82ac029e6ee1331ba3c670a6d814048e1823cc28"
+    },
+    {
+      "path": "guanru-park-web/components/ui/tooltip.tsx",
+      "bytes": 2855,
+      "sha256": "b86e51969931c3d62e88d0bdacd1cd8219105dc6d6b6a588a80011bf92e987cd"
+    },
+    {
+      "path": "guanru-park-web/components.json",
+      "bytes": 516,
+      "sha256": "9928283696d86836422959a2c520df83a718d31ffbcab533a14ca8dca2c8d475"
+    },
+    {
+      "path": "guanru-park-web/hooks/use-mobile.ts",
+      "bytes": 585,
+      "sha256": "82bff42ff087bd5dc90a5d17609cc428b8688de92d1333073a839af5ad3c9cbd"
+    },
+    {
+      "path": "guanru-park-web/lib/utils.ts",
+      "bytes": 169,
+      "sha256": "9304a861c8673bee09e0f12de31773abbde503b02e59dfd74763ddec2e37cf05"
+    },
+    {
+      "path": "guanru-park-web/next.config.ts",
+      "bytes": 104,
+      "sha256": "d063bebef3a4878ae82f9f9547c2c9675b8b6945ab23702932dcb63a011a9fc9"
+    },
+    {
+      "path": "guanru-park-web/package-lock.json",
+      "bytes": 376021,
+      "sha256": "489ddb59c953c3d08491778e37a562fc7caebc24cc7e3c2458af61953e091e67"
+    },
+    {
+      "path": "guanru-park-web/package.json",
+      "bytes": 1671,
+      "sha256": "d18ffa3421fc6bd6aa828d6dbaa373102f3d4a3bd9e16b9f0d19aa9773270dd2"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/1F.bin",
+      "bytes": 9811852,
+      "sha256": "89a47fd4036bd3ea731be35d22e84f451fb91a6de2916a18f09a4e0f0d0b6820"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/1F.gltf",
+      "bytes": 153302,
+      "sha256": "ccf6f7d672469cd6d099225f23e8f0c1a875f94d864845e4ccf1e9df9126d9ae"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/2F.bin",
+      "bytes": 9253552,
+      "sha256": "a1812061d0c5727f237f90a5fc4cc1c3ade4aa4132b08ebe702eeedcae519cb0"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/2F.gltf",
+      "bytes": 144308,
+      "sha256": "4a962565832d2f44f0fe11b38943486ff6b7ea7ef4ff8e2f4108ba5d25394dcd"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/3F.bin",
+      "bytes": 1330396,
+      "sha256": "5d5e092a940cdbdf78fa0fdf712469aa16ea7a9dfdc1e4e19850b2ae30815df4"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/3F.gltf",
+      "bytes": 88697,
+      "sha256": "a84f04a4328b720043d8b5c8e49dcaf31b372846ee1da7458ab49b1dd5f971d5"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/B1.bin",
+      "bytes": 8890812,
+      "sha256": "5af2baa91aa3d6ce9b258eeca606c449329b8f366aa218dac37a18a035dadb9c"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/B1.gltf",
+      "bytes": 130604,
+      "sha256": "adebd9c9834776944c1109b5a8b15a8aef0da792d2cea158b88846901bff681a"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/Roof.bin",
+      "bytes": 2480,
+      "sha256": "7d87313cece42407c91845b3262f30cda47f5bbd3195ed2d5955a9301964a98f"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/Roof.gltf",
+      "bytes": 4005,
+      "sha256": "5a0c06a0e1452912d60dc5b481eb6671eb66a8ad9ac7f1d9aa51ee9872608bf6"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/Site.bin",
+      "bytes": 230864,
+      "sha256": "6c4327c9831cbfe3796b40cb710d16892ca264d1f5b8b793be396cb6896c031a"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/Site.gltf",
+      "bytes": 20634,
+      "sha256": "fc76ecfcccac3961f0d04a1462500091a5deb7272f9764ae16cd618af8718e17"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/lightmaps/1F.hdr",
+      "bytes": 6780576,
+      "sha256": "a389399b96ba46c8417ab33784ac1d257fda5244e5e4277a0c4cd494a9c2b4ab"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/lightmaps/2F.hdr",
+      "bytes": 6586799,
+      "sha256": "31ce6ce08fd1595b13502772aaeedec6732317c00e38e4b1e5e9617cbe0da298"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/lightmaps/3F.hdr",
+      "bytes": 5860864,
+      "sha256": "1d9e13a64b8cb36f2ea4fcbbae0bffc606a4620ac641698d3efa56526bfdefbc"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/lightmaps/B1.hdr",
+      "bytes": 6672950,
+      "sha256": "6d9e26670dc19f0d6a7df62c842cef3eb269e262c7e3a48f06989081c6f00be9"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/lights.json",
+      "bytes": 26021,
+      "sha256": "2858f7fb7d053748615f6bef941147ed28e8c6fcb51c838638719b49c8b2f729"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/manifest.json",
+      "bytes": 959,
+      "sha256": "e8fadc2c39fb7493a6ceecc7e66572d34ab9d4aeb483f2c0bbeaf61d547f03ca"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/mirrors.json",
+      "bytes": 2619,
+      "sha256": "d80459f21e4d98c75b51032a7d6351bad91f23b049c472c5a939e7d97a017557"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/rooms.json",
+      "bytes": 34853,
+      "sha256": "ba1b40d73e38c6e3d556026a742c0889c25c5ee9f2e438c5ea7074fd64223058"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/11577ef6210e8f680571.png",
+      "bytes": 600444,
+      "sha256": "11577ef6210e8f6805719bbf57b9a770083defdc459a172413fd8869609c01d1"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/14c97c2be8c737ec2500.jpg",
+      "bytes": 135889,
+      "sha256": "14c97c2be8c737ec250061da9b8183de6abedd6c07d795f57c47e83512353c12"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/1d477e6d905fcfc945ef.png",
+      "bytes": 1141216,
+      "sha256": "1d477e6d905fcfc945ef84a3d3e81bfa4d57d24e3fe93ecddff43f4201309900"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/393b5d87b7df1e136ab0.png",
+      "bytes": 492700,
+      "sha256": "393b5d87b7df1e136ab0c309dd4d9445a3a5e7112e9df9449891ad4e968c1aac"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/3e54165b6de0b87c0ee0.jpg",
+      "bytes": 290066,
+      "sha256": "3e54165b6de0b87c0ee073e1f137f8c8aabdb590c068dfef1399540604986594"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/65b5c0b2f2c90ed9a270.png",
+      "bytes": 371336,
+      "sha256": "65b5c0b2f2c90ed9a270b9a880d8fd1ce3f2465ea2fe54f7ca0c4c0d3b768c54"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/660265b5a9c7d7d166c3.jpg",
+      "bytes": 777098,
+      "sha256": "660265b5a9c7d7d166c37eec6d42c3bb18b45f5040d1eaf5940cfa1f8dad67b2"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/68804edb0b6725af4a3e.png",
+      "bytes": 547918,
+      "sha256": "68804edb0b6725af4a3e577e92e1c9a68a2d233aad2095a9b1eed00e6a9dba79"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/802b8ca1ba67ae966194.jpg",
+      "bytes": 238776,
+      "sha256": "802b8ca1ba67ae966194ab7a8eda772422f85166f58a25f4ad70e1a24cb7b902"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/8a0bdc08f1bfe009b7f4.png",
+      "bytes": 773464,
+      "sha256": "8a0bdc08f1bfe009b7f4d8bb1a28c9f7a931451e7fc63746540723397e3cd34d"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/9700dc0f678335686b23.png",
+      "bytes": 90903,
+      "sha256": "9700dc0f678335686b23fe1dd7048e410a9a24cc8cfb2d0830c2cfd3cea27ea5"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/adf178314b10749a59b0.png",
+      "bytes": 1126319,
+      "sha256": "adf178314b10749a59b03e5325ff797faf720037e4e1c370662fae67a1ec134b"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/b17ea09a21bc7a624902.png",
+      "bytes": 81373,
+      "sha256": "b17ea09a21bc7a62490214f895fc9171898f953cf01473be0e188621839b6c39"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/c26b7edbf174db3c924b.jpg",
+      "bytes": 109975,
+      "sha256": "c26b7edbf174db3c924b85591754ad8dcb0a8a01e38522a3c6e770744d3c2761"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/cec62cb7c8aefb145e61.png",
+      "bytes": 748246,
+      "sha256": "cec62cb7c8aefb145e613d648a28c0f73520a679aa8611608c43feb521ebf564"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/ed73ae1ce7af9e0785d9.png",
+      "bytes": 68974,
+      "sha256": "ed73ae1ce7af9e0785d9f33f575e6fdc60f9c053748c5f11a5813d0291426e2a"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/high/f2de6ea5cf55f923976d.jpg",
+      "bytes": 836467,
+      "sha256": "f2de6ea5cf55f923976d82485418fb6a3326468343d25ff6e9ee07ab5917b3f8"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/11577ef6210e8f680571.png",
+      "bytes": 79037,
+      "sha256": "620630957142509c241f11bacbc65701ddcb632893b4260f60a264318204d61d"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/14c97c2be8c737ec2500.jpg",
+      "bytes": 22351,
+      "sha256": "99f235abb2d6dbccd99e54094b80d055fbc04b8ec2cbba3afa7ccf9bbd9f9c31"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/1d477e6d905fcfc945ef.png",
+      "bytes": 430198,
+      "sha256": "12d91a16e67bbdbc3dffcdcc9c49cdab8f0dc8317d6f5b0bac3a682e7eb96f98"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/393b5d87b7df1e136ab0.png",
+      "bytes": 66581,
+      "sha256": "95231f9355aaa3679d5cfe95e9b11e5e97203876b2ac59542cb2489214de6e0d"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/3e54165b6de0b87c0ee0.jpg",
+      "bytes": 70191,
+      "sha256": "f88e91dbbd46c999517b19e45c8a871cd0ecc858c84d48754cb96521ccabbffc"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/65b5c0b2f2c90ed9a270.png",
+      "bytes": 124472,
+      "sha256": "67e62765270d2d2d90f1588b13aeb91a02974ca0d659f723efd701fb73ef8396"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/660265b5a9c7d7d166c3.jpg",
+      "bytes": 105167,
+      "sha256": "60b0b9d193f9d10e84c08c5911ea21ed6c2991db99f984ca73e90746742fbf65"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/68804edb0b6725af4a3e.png",
+      "bytes": 73486,
+      "sha256": "b274f52ec7baf64b00f508f076534579df1164f810bd05dceb4f755f9dbe7a69"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/802b8ca1ba67ae966194.jpg",
+      "bytes": 45258,
+      "sha256": "d81ff7e210e547a4d7d3f3ea0fd87dc1b0df61dbf307430ed6db89abaef38317"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/8a0bdc08f1bfe009b7f4.png",
+      "bytes": 272173,
+      "sha256": "ebeadee47b3189e0ba906b2e1938d7a8597078e6f971d0a6e886864acdb292bd"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/9700dc0f678335686b23.png",
+      "bytes": 35176,
+      "sha256": "fd1e9b375b76920f5634cc557ca4729b85568581d181dbcafb3a7fe1e7ea4052"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/adf178314b10749a59b0.png",
+      "bytes": 425998,
+      "sha256": "bac94176303148449d3e9471198b92df43e24ba96b4b195400574b62d3790638"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/b17ea09a21bc7a624902.png",
+      "bytes": 7922,
+      "sha256": "3a66d3e2d14265c75d2fd1e96a4bd1ff8b6bd36d5c6af5a7543f05b70e5b41a5"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/c26b7edbf174db3c924b.jpg",
+      "bytes": 14065,
+      "sha256": "fddbab96fedf7302237c7881b0d4a60b9458ac2e105ec18c882a73335ef6d104"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/cec62cb7c8aefb145e61.png",
+      "bytes": 93871,
+      "sha256": "f462ca982e50cc00c6752f628687537b4aed47ed27799caa1c74d3598c01ee2d"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/ed73ae1ce7af9e0785d9.png",
+      "bytes": 7045,
+      "sha256": "20ba44a89b24113acb5c04c0524323b61e33bd02a1f006f5e10e6b0e59f407da"
+    },
+    {
+      "path": "guanru-park-web/public/assets-v3/textures/standard/f2de6ea5cf55f923976d.jpg",
+      "bytes": 119709,
+      "sha256": "e695ab8f0ba1816872942b1b88d9292a50cb2131193f4d72b08405a9a1d58bc6"
+    },
+    {
+      "path": "guanru-park-web/public/favicon.svg",
+      "bytes": 231,
+      "sha256": "259441cfac8e81a0f5959ad041d08ea567dd9c65179a6b1e0c03057b0099541a"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/01_Aerial.jpg",
+      "bytes": 187759,
+      "sha256": "512b6ecdc5dd3ee8a607e2f38bd43016084ef645e25b2954efb987b8093abfab"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/02_East.jpg",
+      "bytes": 173472,
+      "sha256": "25ed36ed4f569456f1d382d334aae0004aa6cb6998ec113934bf66375f403fd9"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/03_Courtyard.jpg",
+      "bytes": 217924,
+      "sha256": "15d1e813a9cba2cf2d695877ebc2133acf7ca120b2ab2f056045be70178563c0"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/04_Pool.jpg",
+      "bytes": 314244,
+      "sha256": "90455415cfa53f76b4042c089bc65a4f72a099beeb4115a1fc3780a32ee2e22a"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/05_B1_Axon.jpg",
+      "bytes": 179448,
+      "sha256": "62dfede69c23db831d4a5df8dc6f270a6c974dd268bd91c3b6d1e06440b9cb16"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/06_1F_Axon.jpg",
+      "bytes": 186557,
+      "sha256": "d63107422ac18a1e7c9f3cb72e9fd27bade35ae357a8c3459a33540a2ac48383"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/07_2F_Axon.jpg",
+      "bytes": 149661,
+      "sha256": "a519cbc5385f6fbb5ab9f7c03be926f1ff5f3465067df0ffd98bbdfe6234c07b"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/08_Living.jpg",
+      "bytes": 227296,
+      "sha256": "ae0e8f63c31e2d1594377e1862c1334dd865478f1109e4831e1907ffcfe7743a"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/09_Master.jpg",
+      "bytes": 234761,
+      "sha256": "598561b8d253a0e11ad8cafa27e66552e17eeddedd47c2a3d2001b477dc8f0d7"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/10_Kitchen.jpg",
+      "bytes": 203396,
+      "sha256": "7d827c51b3b49c65170de901096563ac59567b0ee2ac349d5467eed4c15d35ef"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/11_Twilight.jpg",
+      "bytes": 190812,
+      "sha256": "2db747c9608aa818ca7612d479ccab899bc4cb1846a1deab9b215a80fe7245ed"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/12_3F_Axon.jpg",
+      "bytes": 70257,
+      "sha256": "91b0d6d2abf958caa3238e6fd74ce5d66ad936f09f93b60ea8a8ef5505df1d36"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/13_Bath.jpg",
+      "bytes": 185757,
+      "sha256": "e6fb5050673da7a3feba7c2fbebe9b3176fca9e67deac1703974b973501c8c89"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/14_Kitchen_Detail.jpg",
+      "bytes": 171014,
+      "sha256": "07c7f64477188fa6eefcb0f4940b1d9c918651598daa338caf8d58b5e65a4e36"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/15_Chinese_Kitchen.jpg",
+      "bytes": 178930,
+      "sha256": "ca8bace91666215b9b1c8f8e82f98fe08734a4d9fec3b03ce5be2cf58a8c766c"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-01_Aerial.jpg",
+      "bytes": 9677,
+      "sha256": "d933a538c83ab628a30a42a8c0d9836c4192f6fc1dff1e60de6e6268c4c21209"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-02_East.jpg",
+      "bytes": 9063,
+      "sha256": "67a5e8c40fceeae34b699e6332f903d3b9e817ece8927476357df9949ef7a0ef"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-03_Courtyard.jpg",
+      "bytes": 11560,
+      "sha256": "66e2daca9452c9dc01ff04668d27d85e001f1699ef823acc92de6e4db8c511d3"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-04_Pool.jpg",
+      "bytes": 17096,
+      "sha256": "245db6d68eaa0f10ffa7482b7fee8dd5f8850c730c0f7a76299c21412905c28f"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-05_B1_Axon.jpg",
+      "bytes": 7922,
+      "sha256": "435d6022b130725529c0e77582177a656241eb595b1abae6badd240678a3141c"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-06_1F_Axon.jpg",
+      "bytes": 7808,
+      "sha256": "ec330112c059468d1b4bcf2eba899c5093540481968992b8f93db2a2ca25da35"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-07_2F_Axon.jpg",
+      "bytes": 6023,
+      "sha256": "122a1954766653e778c356da52e6566448075258343ebd97ef394b41d2f96949"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-08_Living.jpg",
+      "bytes": 14174,
+      "sha256": "04e0ace09e35036ec2bfcd34bbc48c6872429c1f509d4e646a5f68004078feff"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-09_Master.jpg",
+      "bytes": 14779,
+      "sha256": "ed15fe9d2ef1169c36217d5871ec93da0909e63fae206e6e3667470195660f71"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-10_Kitchen.jpg",
+      "bytes": 12940,
+      "sha256": "63619c6471e6c377ffc91e18dec97eb53a991f5435b4c07a112ed90d72798916"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-11_Twilight.jpg",
+      "bytes": 9696,
+      "sha256": "7d4992d19829916acf5e4729374edca196de0c4ffbb43a36232a40b683bdb3de"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-12_3F_Axon.jpg",
+      "bytes": 3202,
+      "sha256": "2dafcc34d294451252f97f812de91b455b785f5dbca485d993af055f4a8857c2"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-13_Bath.jpg",
+      "bytes": 10801,
+      "sha256": "f4db49ff1631c1cac3477185ffc75211123f5ccd67630a96dc0aa1108520e592"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-14_Kitchen_Detail.jpg",
+      "bytes": 10086,
+      "sha256": "e0d54e10287fb053906b065b43c4e1d87786ef4ec5763413e49875e310893372"
+    },
+    {
+      "path": "guanru-park-web/public/gallery/thumb-15_Chinese_Kitchen.jpg",
+      "bytes": 9551,
+      "sha256": "3eb716da458d35cd935b2b0ea6bc200136bb96ac0f741d26ea9a87fba64b4f53"
+    },
+    {
+      "path": "guanru-park-web/public/preview-v2.jpg",
+      "bytes": 126128,
+      "sha256": "3a541c105c2ba112c0be60b15b4970e72fd2ecb35616ec19edc1a2c8e5f4c719"
+    },
+    {
+      "path": "guanru-park-web/public/preview-v3.jpg",
+      "bytes": 153530,
+      "sha256": "89f93f9c4c1847661148397e9ec3c6cef4cccd916d2950d0e86548dfdf7e204b"
+    },
+    {
+      "path": "guanru-park-web/public/villa-v2.glb",
+      "bytes": 19279932,
+      "sha256": "4e85e56da8c2256a395f69cb47c78ef9adbfc03dc456a88d513e48fadfcd185f"
+    },
+    {
+      "path": "guanru-park-web/scripts/make-standard-textures.py",
+      "bytes": 503,
+      "sha256": "b1952418f217e53ed6ae931c83b19b18221e8a7e84d212a0ae2b352a3441b472"
+    },
+    {
+      "path": "guanru-park-web/scripts/optimize-model.mjs",
+      "bytes": 2727,
+      "sha256": "9d308c1a7d63c16396dbd0bd5c060ba6afe75d59d1e522dbc54326de93d4a60e"
+    },
+    {
+      "path": "guanru-park-web/scripts/optimize-v3.mjs",
+      "bytes": 4568,
+      "sha256": "c3662a5b97e7b10900d84aa81c58f9d7a36ff6b14148e0303366bc0750f7d0bc"
+    },
+    {
+      "path": "guanru-park-web/scripts/verify-model.mjs",
+      "bytes": 6538,
+      "sha256": "1a09747dc2c7915f2f141df8429e9ab4242af5b3d6d7cb425e15ac4c259b3225"
+    },
+    {
+      "path": "guanru-park-web/scripts/verify-v3.mjs",
+      "bytes": 7127,
+      "sha256": "53244a028f25eb23003cd7e9f90e7946a6a7e0f2ff5ed77055dccd6537a3be14"
+    },
+    {
+      "path": "guanru-park-web/tsconfig.json",
+      "bytes": 671,
+      "sha256": "81aca06cd76be09d9b65c7dff6a031c38664263b506ea792a28f36b17be25f2a"
+    },
+    {
+      "path": "guanru-park-web/vite.config.ts",
+      "bytes": 1807,
+      "sha256": "3c028e727dde6c92022197ba7241a424ccd1e3d335f1f46cc9bbf91a8a3a968c"
+    }
+  ]
+}

@@ -1,29 +1,48 @@
-# Guanru Park 2.0 · 建筑漫游
+# Guanru Park
 
-Blender 精细建筑模型的交互展示。支持整栋、B1 / 1F / 2F / 3F 独立楼层，分层展开、揭开屋顶、水平剖切、日景和傍晚、家具显隐、房间标签与聚焦，以及 8 个整体或室内外视角。效果图集提供 12 张 Blender 正式渲染。手机支持单指旋转和双指缩放、平移。
+Guanru Park 3.0 建筑展示项目：可编辑 Blender 模型、生成与导出脚本、Three.js 网页源码、材质资源、效果图和检查记录。
 
-模型以米为单位，层高约 3.15 m；尺寸依据参考截图推定。2.0 保留原体量与平面洞口，新增建筑收口、家具软装与厨卫细节。网页使用 UV PBR 纹理与实时光照，和 Blender 离线渲染并非逐像素一致。
+[公开交互展示](https://guanru-park-villa.haru2248772597.chatgpt.site)
 
-## 开发
+## 交付文件
+
+| 内容 | 位置 |
+|---|---|
+| 3.0 可编辑模型 | [Guanru_Park_3.0.blend](guanru%20park/展示模型_3.0/Guanru_Park_3.0.blend) |
+| 逐房间升级说明与测试限制 | [3.0 升级说明](guanru%20park/展示模型_3.0/3.0升级说明.md) |
+| 模型重建和导出方法 | [REBUILD.md](guanru%20park/展示模型_3.0/REBUILD.md) |
+| 19 张正式效果图 | [renders](guanru%20park/展示模型_3.0/renders) |
+| 浏览器截图、性能数据与版本对比 | [qa](guanru%20park/展示模型_3.0/qa) |
+| 网页源码及已优化的完整资源 | [guanru-park-web](guanru-park-web) |
+| 2.0 模型与效果图基线 | [展示模型_2.0](guanru%20park/展示模型_2.0) |
+| 3.0 升级参考 | [3.0升级参考](guanru%20park/3.0升级参考) |
+
+下载仓库后，可直接用 Blender 打开 `.blend`。主要材质图片已打包。对比 HTML 请下载后在浏览器中打开，仓库保留了相对目录关系。
+
+## 运行网页
+
+需要 Node.js 22.13.0 或更新版本。
 
 ```sh
-npm install
+cd guanru-park-web
+npm ci
 npm run dev
-npm run build
 ```
 
-## 模型处理与验证
+生产构建：`npm run build`。页面包含楼层切换、剖切、展开、家具和屋顶显隐、室内近景、日景/傍晚及两档画质。
 
-`public/villa-v2.glb` 包含 24 个楼层用途组、约 195 万三角面及 19 张嵌入纹理，约 19.28 MB。按材质合并为 167 次绘制，并量化、Meshopt 压缩；未减面。纹理 UV 量化前归一化，并使用 KHR_texture_transform 保持实体纹理尺度。
+## 版本与检查
 
-```sh
-node scripts/optimize-model.mjs /absolute/path/to/web_export/villa.glb
-node --experimental-strip-types scripts/verify-model.mjs
-npx tsc --noEmit
-npm run lint -- app/page.tsx app/viewer.tsx app/model-state.ts app/layout.tsx scripts/optimize-model.mjs scripts/verify-model.mjs
-npm run build
-```
+网页原有提交历史保留。整理 GitHub 交付时，网页从仓库根目录移至 `guanru-park-web/`，没有重写先前提交。
 
-验证脚本用实际 Three.js GLTFLoader 与 Meshopt 解码，检查几何、UV、文件尺寸、楼层隔离、家具显隐、展开复位、屋顶揭开、剖切方向、相机目标与房间标记。图像加载以 CPU 桩替代，另用 Pillow 解码导出的嵌入图片；未执行浏览器 GPU 视觉与点击测试。
+- `web-v2.0`：2.0 网页基线，对应提交 `64af47a84d8644818315ba29db6e3d8b772d7ad9`，当时网页位于仓库根目录。
+- `web-v3.0`：已发布的 3.0 网页，对应提交 `8d933bb97204b7b1df91c0aeb7219d9c4a3400d1`，当时网页位于仓库根目录。
+- `v3.0-delivery`：包含模型、网页和说明的完整 GitHub 交付。
 
-`app/model-state.ts` 定义空间选项、相机、房间及分组显隐；`app/viewer.tsx` 负责 Three.js 渲染与相机；`app/page.tsx` 和样式负责控制面板及画廊。
+发布前已执行网页构建、TypeScript、相关文件 lint、模型解码与交互检查，并完成本地浏览器测试。全仓库 lint 的模板既存问题及画质/性能限制详见升级说明。发布后的 55 项 HTTP 资源检查通过；线上浏览器交互与公网加载耗时因检查连接超时未完成验证。
+
+本次 GitHub 整理不改动模型与网页行为；通过文件 SHA-256 一致性、网页资源路径、对比图片路径和上传体积检查确认交付内容完整。
+
+## 归档范围
+
+包含正式模型、脚本、贴图、已优化网页资产、正式效果图、检查数据和浏览器截图。依赖目录、构建缓存、日志、Blender 自动备份和重复模型副本不进入仓库。`web_export/*.glb` 是可由 Blender 重新导出的中间文件；网页运行所需的 glTF、二进制和贴图已完整放入 `guanru-park-web/public/assets-v3/`。

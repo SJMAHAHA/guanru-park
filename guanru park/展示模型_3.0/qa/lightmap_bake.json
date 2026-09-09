@@ -1,0 +1,26 @@
+[
+  {
+    "floor": "B1",
+    "image": "B1.hdr",
+    "seconds": 12.64,
+    "size": 2048
+  },
+  {
+    "floor": "1F",
+    "image": "1F.hdr",
+    "seconds": 14.08,
+    "size": 2048
+  },
+  {
+    "floor": "2F",
+    "image": "2F.hdr",
+    "seconds": 13.33,
+    "size": 2048
+  },
+  {
+    "floor": "3F",
+    "image": "3F.hdr",
+    "seconds": 17.35,
+    "size": 2048
+  }
+]

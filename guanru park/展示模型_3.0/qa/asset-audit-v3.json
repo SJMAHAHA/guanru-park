@@ -1,0 +1,194 @@
+{
+  "files": 53,
+  "bytes": 66448832,
+  "largest_file_bytes": 9811836,
+  "textures": [
+    {
+      "file": "b17ea09a21bc7a624902.png",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "11577ef6210e8f680571.png",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "8a0bdc08f1bfe009b7f4.png",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "1d477e6d905fcfc945ef.png",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "f2de6ea5cf55f923976d.jpg",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "660265b5a9c7d7d166c3.jpg",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "65b5c0b2f2c90ed9a270.png",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "14c97c2be8c737ec2500.jpg",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "3e54165b6de0b87c0ee0.jpg",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "9700dc0f678335686b23.png",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "c26b7edbf174db3c924b.jpg",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "ed73ae1ce7af9e0785d9.png",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "802b8ca1ba67ae966194.jpg",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "adf178314b10749a59b0.png",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "393b5d87b7df1e136ab0.png",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "cec62cb7c8aefb145e61.png",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "68804edb0b6725af4a3e.png",
+      "high": [
+        2048,
+        2048
+      ],
+      "standard": [
+        1024,
+        1024
+      ]
+    }
+  ]
+}

@@ -1,0 +1,638 @@
+{
+  "objects": 10242,
+  "rooms": [
+    {
+      "floor": "B1",
+      "name": "SPA",
+      "objects_in_room_bounds": 26,
+      "real_lights": 1,
+      "furniture_parts": 3,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "热泡池",
+      "objects_in_room_bounds": 32,
+      "real_lights": 1,
+      "furniture_parts": 0,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "康疗走廊",
+      "objects_in_room_bounds": 35,
+      "real_lights": 2,
+      "furniture_parts": 0,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "桑拿房",
+      "objects_in_room_bounds": 34,
+      "real_lights": 1,
+      "furniture_parts": 4,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "淋浴间",
+      "objects_in_room_bounds": 37,
+      "real_lights": 1,
+      "furniture_parts": 26,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "室内泳池",
+      "objects_in_room_bounds": 309,
+      "real_lights": 4,
+      "furniture_parts": 0,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "乒乓球室",
+      "objects_in_room_bounds": 54,
+      "real_lights": 4,
+      "furniture_parts": 9,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "瑜伽房",
+      "objects_in_room_bounds": 38,
+      "real_lights": 2,
+      "furniture_parts": 6,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "保龄球道",
+      "objects_in_room_bounds": 119,
+      "real_lights": 2,
+      "furniture_parts": 69,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "健身房",
+      "objects_in_room_bounds": 78,
+      "real_lights": 4,
+      "furniture_parts": 34,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "模拟高尔夫",
+      "objects_in_room_bounds": 33,
+      "real_lights": 2,
+      "furniture_parts": 4,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "酒窖",
+      "objects_in_room_bounds": 293,
+      "real_lights": 4,
+      "furniture_parts": 256,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "影音室",
+      "objects_in_room_bounds": 71,
+      "real_lights": 1,
+      "furniture_parts": 46,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "客卧1",
+      "objects_in_room_bounds": 58,
+      "real_lights": 2,
+      "furniture_parts": 38,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "客卫1",
+      "objects_in_room_bounds": 39,
+      "real_lights": 1,
+      "furniture_parts": 24,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "客房客厅",
+      "objects_in_room_bounds": 82,
+      "real_lights": 2,
+      "furniture_parts": 63,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "娱乐大厅",
+      "objects_in_room_bounds": 105,
+      "real_lights": 2,
+      "furniture_parts": 65,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "沙龙",
+      "objects_in_room_bounds": 72,
+      "real_lights": 1,
+      "furniture_parts": 55,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "西楼梯厅",
+      "objects_in_room_bounds": 97,
+      "real_lights": 1,
+      "furniture_parts": 0,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "东楼梯厅",
+      "objects_in_room_bounds": 84,
+      "real_lights": 1,
+      "furniture_parts": 0,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "家庭影院",
+      "objects_in_room_bounds": 166,
+      "real_lights": 4,
+      "furniture_parts": 134,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "游戏厅",
+      "objects_in_room_bounds": 124,
+      "real_lights": 4,
+      "furniture_parts": 13,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "车库",
+      "objects_in_room_bounds": 99,
+      "real_lights": 4,
+      "furniture_parts": 44,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "机电设备北",
+      "objects_in_room_bounds": 52,
+      "real_lights": 2,
+      "furniture_parts": 2,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "客卧2",
+      "objects_in_room_bounds": 53,
+      "real_lights": 2,
+      "furniture_parts": 38,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "客卧3",
+      "objects_in_room_bounds": 71,
+      "real_lights": 2,
+      "furniture_parts": 38,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "客卫2",
+      "objects_in_room_bounds": 43,
+      "real_lights": 1,
+      "furniture_parts": 26,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "客卫3",
+      "objects_in_room_bounds": 36,
+      "real_lights": 1,
+      "furniture_parts": 26,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "B1",
+      "name": "机电设备南",
+      "objects_in_room_bounds": 26,
+      "real_lights": 2,
+      "furniture_parts": 2,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "户外客餐区",
+      "objects_in_room_bounds": 212,
+      "real_lights": 0,
+      "furniture_parts": 181,
+      "ceiling_parts": 0,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "家庭客厅",
+      "objects_in_room_bounds": 170,
+      "real_lights": 3,
+      "furniture_parts": 69,
+      "ceiling_parts": 5,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "西厨及休闲餐厅",
+      "objects_in_room_bounds": 262,
+      "real_lights": 6,
+      "furniture_parts": 218,
+      "ceiling_parts": 2,
+      "policy": "厨房一体化橱柜"
+    },
+    {
+      "floor": "1F",
+      "name": "餐厅",
+      "objects_in_room_bounds": 170,
+      "real_lights": 5,
+      "furniture_parts": 122,
+      "ceiling_parts": 6,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "主客厅",
+      "objects_in_room_bounds": 111,
+      "real_lights": 1,
+      "furniture_parts": 67,
+      "ceiling_parts": 0,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "酒窖",
+      "objects_in_room_bounds": 309,
+      "real_lights": 4,
+      "furniture_parts": 256,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "池畔酒吧",
+      "objects_in_room_bounds": 73,
+      "real_lights": 1,
+      "furniture_parts": 32,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "起居室",
+      "objects_in_room_bounds": 104,
+      "real_lights": 2,
+      "furniture_parts": 65,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "办公室",
+      "objects_in_room_bounds": 56,
+      "real_lights": 2,
+      "furniture_parts": 25,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "中厨",
+      "objects_in_room_bounds": 120,
+      "real_lights": 2,
+      "furniture_parts": 83,
+      "ceiling_parts": 1,
+      "policy": "厨房一体化橱柜"
+    },
+    {
+      "floor": "1F",
+      "name": "洗衣房",
+      "objects_in_room_bounds": 43,
+      "real_lights": 2,
+      "furniture_parts": 16,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "上层车库",
+      "objects_in_room_bounds": 91,
+      "real_lights": 4,
+      "furniture_parts": 22,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "次卧4",
+      "objects_in_room_bounds": 77,
+      "real_lights": 2,
+      "furniture_parts": 38,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "次卫4",
+      "objects_in_room_bounds": 62,
+      "real_lights": 1,
+      "furniture_parts": 26,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "次卫5",
+      "objects_in_room_bounds": 57,
+      "real_lights": 1,
+      "furniture_parts": 26,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "次卧5",
+      "objects_in_room_bounds": 79,
+      "real_lights": 2,
+      "furniture_parts": 38,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "主卧",
+      "objects_in_room_bounds": 141,
+      "real_lights": 3,
+      "furniture_parts": 44,
+      "ceiling_parts": 5,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "主卧起居室",
+      "objects_in_room_bounds": 106,
+      "real_lights": 2,
+      "furniture_parts": 49,
+      "ceiling_parts": 5,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "主卫西区",
+      "objects_in_room_bounds": 52,
+      "real_lights": 2,
+      "furniture_parts": 26,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "女士衣帽间",
+      "objects_in_room_bounds": 81,
+      "real_lights": 4,
+      "furniture_parts": 43,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "男士衣帽间",
+      "objects_in_room_bounds": 69,
+      "real_lights": 2,
+      "furniture_parts": 43,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "洗衣房",
+      "objects_in_room_bounds": 50,
+      "real_lights": 1,
+      "furniture_parts": 16,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "次卧1",
+      "objects_in_room_bounds": 109,
+      "real_lights": 2,
+      "furniture_parts": 40,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "次卫1",
+      "objects_in_room_bounds": 61,
+      "real_lights": 1,
+      "furniture_parts": 26,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "次卧2",
+      "objects_in_room_bounds": 101,
+      "real_lights": 4,
+      "furniture_parts": 40,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "次卫2",
+      "objects_in_room_bounds": 67,
+      "real_lights": 1,
+      "furniture_parts": 26,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "次卫3",
+      "objects_in_room_bounds": 70,
+      "real_lights": 1,
+      "furniture_parts": 26,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "次卧3",
+      "objects_in_room_bounds": 68,
+      "real_lights": 2,
+      "furniture_parts": 40,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "员工公共区",
+      "objects_in_room_bounds": 159,
+      "real_lights": 4,
+      "furniture_parts": 110,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "员工宿舍1",
+      "objects_in_room_bounds": 79,
+      "real_lights": 2,
+      "furniture_parts": 36,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "员工宿舍2",
+      "objects_in_room_bounds": 73,
+      "real_lights": 2,
+      "furniture_parts": 34,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "员工宿舍3",
+      "objects_in_room_bounds": 71,
+      "real_lights": 2,
+      "furniture_parts": 34,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "员工宿舍4",
+      "objects_in_room_bounds": 79,
+      "real_lights": 2,
+      "furniture_parts": 37,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "3F",
+      "name": "屋顶起居室",
+      "objects_in_room_bounds": 108,
+      "real_lights": 4,
+      "furniture_parts": 58,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "3F",
+      "name": "屋顶办公室",
+      "objects_in_room_bounds": 80,
+      "real_lights": 1,
+      "furniture_parts": 33,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "3F",
+      "name": "屋顶楼梯厅",
+      "objects_in_room_bounds": 96,
+      "real_lights": 1,
+      "furniture_parts": 0,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "西楼梯厅",
+      "objects_in_room_bounds": 40,
+      "real_lights": 1,
+      "furniture_parts": 0,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "1F",
+      "name": "东楼梯厅",
+      "objects_in_room_bounds": 98,
+      "real_lights": 1,
+      "furniture_parts": 0,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "西侧交通厅",
+      "objects_in_room_bounds": 31,
+      "real_lights": 2,
+      "furniture_parts": 0,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "西楼梯厅",
+      "objects_in_room_bounds": 41,
+      "real_lights": 1,
+      "furniture_parts": 0,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    },
+    {
+      "floor": "2F",
+      "name": "东楼梯厅",
+      "objects_in_room_bounds": 98,
+      "real_lights": 1,
+      "furniture_parts": 0,
+      "ceiling_parts": 1,
+      "policy": "无储物柜体"
+    }
+  ],
+  "forbidden_cabinets": [],
+  "nonfinite": [],
+  "images_missing": []
+}

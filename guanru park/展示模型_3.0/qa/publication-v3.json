@@ -1,0 +1,282 @@
+{
+  "checked_at": "2026-09-07T17:56:47.256122",
+  "deployment": "succeeded",
+  "checks": [
+    {
+      "path": "/",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/1F.bin",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/Roof.gltf",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/rooms.json",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/B1.gltf",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/lights.json",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/3F.gltf",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/1F.gltf",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/manifest.json",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/mirrors.json",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/Site.bin",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/B1.bin",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/2F.bin",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/Roof.bin",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/2F.gltf",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/Site.gltf",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/3F.bin",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/lightmaps/1F.hdr",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/lightmaps/3F.hdr",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/lightmaps/2F.hdr",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/lightmaps/B1.hdr",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/b17ea09a21bc7a624902.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/11577ef6210e8f680571.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/8a0bdc08f1bfe009b7f4.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/1d477e6d905fcfc945ef.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/f2de6ea5cf55f923976d.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/660265b5a9c7d7d166c3.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/65b5c0b2f2c90ed9a270.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/14c97c2be8c737ec2500.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/3e54165b6de0b87c0ee0.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/9700dc0f678335686b23.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/c26b7edbf174db3c924b.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/ed73ae1ce7af9e0785d9.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/802b8ca1ba67ae966194.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/adf178314b10749a59b0.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/393b5d87b7df1e136ab0.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/cec62cb7c8aefb145e61.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/high/68804edb0b6725af4a3e.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/b17ea09a21bc7a624902.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/11577ef6210e8f680571.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/8a0bdc08f1bfe009b7f4.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/1d477e6d905fcfc945ef.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/f2de6ea5cf55f923976d.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/660265b5a9c7d7d166c3.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/65b5c0b2f2c90ed9a270.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/14c97c2be8c737ec2500.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/3e54165b6de0b87c0ee0.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/9700dc0f678335686b23.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/c26b7edbf174db3c924b.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/ed73ae1ce7af9e0785d9.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/802b8ca1ba67ae966194.jpg",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/adf178314b10749a59b0.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/393b5d87b7df1e136ab0.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/cec62cb7c8aefb145e61.png",
+      "status": "200",
+      "exit": 0
+    },
+    {
+      "path": "/assets-v3/textures/standard/68804edb0b6725af4a3e.png",
+      "status": "200",
+      "exit": 0
+    }
+  ],
+  "online_browser": "Browser navigation/DOM/screenshot inspection timed out after publication; online interaction and load timing unverified. Local browser checks passed before publication."
+}

@@ -1,0 +1,1610 @@
+[
+  {
+    "floor": "B1",
+    "name": "SPA",
+    "reference_rect": [
+      630,
+      150,
+      704,
+      260
+    ],
+    "approx_area_m2": 21.11,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 26,
+    "real_lights": 1,
+    "furniture_parts": 3
+  },
+  {
+    "floor": "B1",
+    "name": "热泡池",
+    "reference_rect": [
+      630,
+      260,
+      704,
+      332
+    ],
+    "approx_area_m2": 13.54,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 32,
+    "real_lights": 1,
+    "furniture_parts": 0
+  },
+  {
+    "floor": "B1",
+    "name": "康疗走廊",
+    "reference_rect": [
+      704,
+      150,
+      740,
+      586
+    ],
+    "approx_area_m2": 39.32,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 35,
+    "real_lights": 2,
+    "furniture_parts": 0
+  },
+  {
+    "floor": "B1",
+    "name": "桑拿房",
+    "reference_rect": [
+      630,
+      368,
+      704,
+      422
+    ],
+    "approx_area_m2": 9.96,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 34,
+    "real_lights": 1,
+    "furniture_parts": 4
+  },
+  {
+    "floor": "B1",
+    "name": "淋浴间",
+    "reference_rect": [
+      630,
+      514,
+      704,
+      586
+    ],
+    "approx_area_m2": 13.54,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 37,
+    "real_lights": 1,
+    "furniture_parts": 26
+  },
+  {
+    "floor": "B1",
+    "name": "室内泳池",
+    "reference_rect": [
+      740,
+      150,
+      850,
+      514
+    ],
+    "approx_area_m2": 108.54,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 309,
+    "real_lights": 4,
+    "furniture_parts": 0
+  },
+  {
+    "floor": "B1",
+    "name": "乒乓球室",
+    "reference_rect": [
+      850,
+      150,
+      960,
+      332
+    ],
+    "approx_area_m2": 53.67,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 54,
+    "real_lights": 4,
+    "furniture_parts": 9
+  },
+  {
+    "floor": "B1",
+    "name": "瑜伽房",
+    "reference_rect": [
+      960,
+      150,
+      1032,
+      332
+    ],
+    "approx_area_m2": 34.43,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 38,
+    "real_lights": 2,
+    "furniture_parts": 6
+  },
+  {
+    "floor": "B1",
+    "name": "保龄球道",
+    "reference_rect": [
+      960,
+      332,
+      1338,
+      440
+    ],
+    "approx_area_m2": 110.64,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 119,
+    "real_lights": 2,
+    "furniture_parts": 69
+  },
+  {
+    "floor": "B1",
+    "name": "健身房",
+    "reference_rect": [
+      850,
+      440,
+      1032,
+      586
+    ],
+    "approx_area_m2": 71.9,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 78,
+    "real_lights": 4,
+    "furniture_parts": 34
+  },
+  {
+    "floor": "B1",
+    "name": "模拟高尔夫",
+    "reference_rect": [
+      1032,
+      440,
+      1138,
+      550
+    ],
+    "approx_area_m2": 30.75,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 33,
+    "real_lights": 2,
+    "furniture_parts": 4
+  },
+  {
+    "floor": "B1",
+    "name": "酒窖",
+    "reference_rect": [
+      1138,
+      440,
+      1248,
+      586
+    ],
+    "approx_area_m2": 42.81,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 293,
+    "real_lights": 4,
+    "furniture_parts": 256
+  },
+  {
+    "floor": "B1",
+    "name": "影音室",
+    "reference_rect": [
+      1248,
+      496,
+      1320,
+      586
+    ],
+    "approx_area_m2": 16.63,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 71,
+    "real_lights": 1,
+    "furniture_parts": 46
+  },
+  {
+    "floor": "B1",
+    "name": "客卧1",
+    "reference_rect": [
+      1320,
+      440,
+      1392,
+      586
+    ],
+    "approx_area_m2": 27.47,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 58,
+    "real_lights": 2,
+    "furniture_parts": 38
+  },
+  {
+    "floor": "B1",
+    "name": "客卫1",
+    "reference_rect": [
+      1342,
+      354,
+      1380,
+      438
+    ],
+    "approx_area_m2": 7.74,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 39,
+    "real_lights": 1,
+    "furniture_parts": 24
+  },
+  {
+    "floor": "B1",
+    "name": "客房客厅",
+    "reference_rect": [
+      1252,
+      622,
+      1464,
+      730
+    ],
+    "approx_area_m2": 61.53,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 82,
+    "real_lights": 2,
+    "furniture_parts": 63
+  },
+  {
+    "floor": "B1",
+    "name": "娱乐大厅",
+    "reference_rect": [
+      850,
+      622,
+      1080,
+      730
+    ],
+    "approx_area_m2": 66.86,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 105,
+    "real_lights": 2,
+    "furniture_parts": 65
+  },
+  {
+    "floor": "B1",
+    "name": "沙龙",
+    "reference_rect": [
+      630,
+      586,
+      718,
+      696
+    ],
+    "approx_area_m2": 25.33,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 72,
+    "real_lights": 1,
+    "furniture_parts": 55
+  },
+  {
+    "floor": "B1",
+    "name": "西楼梯厅",
+    "reference_rect": [
+      740,
+      586,
+      850,
+      730
+    ],
+    "approx_area_m2": 42.21,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 97,
+    "real_lights": 1,
+    "furniture_parts": 0
+  },
+  {
+    "floor": "B1",
+    "name": "东楼梯厅",
+    "reference_rect": [
+      1142,
+      586,
+      1248,
+      730
+    ],
+    "approx_area_m2": 40.62,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 84,
+    "real_lights": 1,
+    "furniture_parts": 0
+  },
+  {
+    "floor": "B1",
+    "name": "家庭影院",
+    "reference_rect": [
+      630,
+      730,
+      812,
+      876
+    ],
+    "approx_area_m2": 71.9,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 166,
+    "real_lights": 4,
+    "furniture_parts": 134
+  },
+  {
+    "floor": "B1",
+    "name": "游戏厅",
+    "reference_rect": [
+      630,
+      878,
+      812,
+      1022
+    ],
+    "approx_area_m2": 70.88,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 124,
+    "real_lights": 4,
+    "furniture_parts": 13
+  },
+  {
+    "floor": "B1",
+    "name": "车库",
+    "reference_rect": [
+      850,
+      734,
+      1138,
+      1095
+    ],
+    "approx_area_m2": 288.39,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 99,
+    "real_lights": 4,
+    "furniture_parts": 44
+  },
+  {
+    "floor": "B1",
+    "name": "机电设备北",
+    "reference_rect": [
+      1250,
+      734,
+      1320,
+      878
+    ],
+    "approx_area_m2": 26.28,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 52,
+    "real_lights": 2,
+    "furniture_parts": 2
+  },
+  {
+    "floor": "B1",
+    "name": "客卧2",
+    "reference_rect": [
+      1360,
+      806,
+      1466,
+      914
+    ],
+    "approx_area_m2": 30.17,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 53,
+    "real_lights": 2,
+    "furniture_parts": 38
+  },
+  {
+    "floor": "B1",
+    "name": "客卧3",
+    "reference_rect": [
+      1320,
+      914,
+      1466,
+      1022
+    ],
+    "approx_area_m2": 42.01,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 71,
+    "real_lights": 2,
+    "furniture_parts": 38
+  },
+  {
+    "floor": "B1",
+    "name": "客卫2",
+    "reference_rect": [
+      1414,
+      734,
+      1502,
+      804
+    ],
+    "approx_area_m2": 15.77,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 43,
+    "real_lights": 1,
+    "furniture_parts": 26
+  },
+  {
+    "floor": "B1",
+    "name": "客卫3",
+    "reference_rect": [
+      1414,
+      1024,
+      1502,
+      1092
+    ],
+    "approx_area_m2": 15.29,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 36,
+    "real_lights": 1,
+    "furniture_parts": 26
+  },
+  {
+    "floor": "B1",
+    "name": "机电设备南",
+    "reference_rect": [
+      1250,
+      1024,
+      1356,
+      1092
+    ],
+    "approx_area_m2": 18.57,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 26,
+    "real_lights": 2,
+    "furniture_parts": 2
+  },
+  {
+    "floor": "1F",
+    "name": "户外客餐区",
+    "reference_rect": [
+      708,
+      224,
+      960,
+      332
+    ],
+    "approx_area_m2": 73.36,
+    "finish_scope": [
+      "铺地",
+      "户外家具",
+      "照明"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 212,
+    "real_lights": 0,
+    "furniture_parts": 181
+  },
+  {
+    "floor": "1F",
+    "name": "家庭客厅",
+    "reference_rect": [
+      708,
+      332,
+      960,
+      440
+    ],
+    "approx_area_m2": 73.36,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 170,
+    "real_lights": 3,
+    "furniture_parts": 69
+  },
+  {
+    "floor": "1F",
+    "name": "西厨及休闲餐厅",
+    "reference_rect": [
+      708,
+      440,
+      850,
+      656
+    ],
+    "approx_area_m2": 83.22,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "厨房一体化橱柜",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 262,
+    "real_lights": 6,
+    "furniture_parts": 218
+  },
+  {
+    "floor": "1F",
+    "name": "餐厅",
+    "reference_rect": [
+      850,
+      440,
+      960,
+      622
+    ],
+    "approx_area_m2": 53.67,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 170,
+    "real_lights": 5,
+    "furniture_parts": 122
+  },
+  {
+    "floor": "1F",
+    "name": "主客厅",
+    "reference_rect": [
+      960,
+      440,
+      1142,
+      622
+    ],
+    "approx_area_m2": 90.12,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 111,
+    "real_lights": 1,
+    "furniture_parts": 67
+  },
+  {
+    "floor": "1F",
+    "name": "酒窖",
+    "reference_rect": [
+      1142,
+      440,
+      1252,
+      586
+    ],
+    "approx_area_m2": 42.81,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 309,
+    "real_lights": 4,
+    "furniture_parts": 256
+  },
+  {
+    "floor": "1F",
+    "name": "池畔酒吧",
+    "reference_rect": [
+      1288,
+      440,
+      1360,
+      514
+    ],
+    "approx_area_m2": 13.54,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 73,
+    "real_lights": 1,
+    "furniture_parts": 32
+  },
+  {
+    "floor": "1F",
+    "name": "起居室",
+    "reference_rect": [
+      1252,
+      514,
+      1360,
+      622
+    ],
+    "approx_area_m2": 30.77,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 104,
+    "real_lights": 2,
+    "furniture_parts": 65
+  },
+  {
+    "floor": "1F",
+    "name": "办公室",
+    "reference_rect": [
+      888,
+      622,
+      1069,
+      730
+    ],
+    "approx_area_m2": 52.36,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 56,
+    "real_lights": 2,
+    "furniture_parts": 25
+  },
+  {
+    "floor": "1F",
+    "name": "中厨",
+    "reference_rect": [
+      708,
+      730,
+      850,
+      840
+    ],
+    "approx_area_m2": 41.61,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "厨房一体化橱柜",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 120,
+    "real_lights": 2,
+    "furniture_parts": 83
+  },
+  {
+    "floor": "1F",
+    "name": "洗衣房",
+    "reference_rect": [
+      708,
+      876,
+      850,
+      950
+    ],
+    "approx_area_m2": 27.48,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 43,
+    "real_lights": 2,
+    "furniture_parts": 16
+  },
+  {
+    "floor": "1F",
+    "name": "上层车库",
+    "reference_rect": [
+      850,
+      734,
+      960,
+      1022
+    ],
+    "approx_area_m2": 85.63,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 91,
+    "real_lights": 4,
+    "furniture_parts": 22
+  },
+  {
+    "floor": "1F",
+    "name": "次卧4",
+    "reference_rect": [
+      1288,
+      622,
+      1396,
+      730
+    ],
+    "approx_area_m2": 30.77,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 77,
+    "real_lights": 2,
+    "furniture_parts": 38
+  },
+  {
+    "floor": "1F",
+    "name": "次卫4",
+    "reference_rect": [
+      1342,
+      730,
+      1432,
+      804
+    ],
+    "approx_area_m2": 17.12,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 62,
+    "real_lights": 1,
+    "furniture_parts": 26
+  },
+  {
+    "floor": "1F",
+    "name": "次卫5",
+    "reference_rect": [
+      1342,
+      804,
+      1432,
+      876
+    ],
+    "approx_area_m2": 16.63,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 57,
+    "real_lights": 1,
+    "furniture_parts": 26
+  },
+  {
+    "floor": "1F",
+    "name": "次卧5",
+    "reference_rect": [
+      1288,
+      876,
+      1396,
+      986
+    ],
+    "approx_area_m2": 31.36,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 79,
+    "real_lights": 2,
+    "furniture_parts": 38
+  },
+  {
+    "floor": "2F",
+    "name": "主卧",
+    "reference_rect": [
+      780,
+      334,
+      924,
+      440
+    ],
+    "approx_area_m2": 40.62,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 141,
+    "real_lights": 3,
+    "furniture_parts": 44
+  },
+  {
+    "floor": "2F",
+    "name": "主卧起居室",
+    "reference_rect": [
+      816,
+      440,
+      960,
+      514
+    ],
+    "approx_area_m2": 27.88,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 106,
+    "real_lights": 2,
+    "furniture_parts": 49
+  },
+  {
+    "floor": "2F",
+    "name": "主卫西区",
+    "reference_rect": [
+      708,
+      514,
+      780,
+      734
+    ],
+    "approx_area_m2": 41.78,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 52,
+    "real_lights": 2,
+    "furniture_parts": 26
+  },
+  {
+    "floor": "2F",
+    "name": "女士衣帽间",
+    "reference_rect": [
+      816,
+      514,
+      924,
+      626
+    ],
+    "approx_area_m2": 31.95,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 81,
+    "real_lights": 4,
+    "furniture_parts": 43
+  },
+  {
+    "floor": "2F",
+    "name": "男士衣帽间",
+    "reference_rect": [
+      816,
+      626,
+      924,
+      734
+    ],
+    "approx_area_m2": 30.77,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 69,
+    "real_lights": 2,
+    "furniture_parts": 43
+  },
+  {
+    "floor": "2F",
+    "name": "洗衣房",
+    "reference_rect": [
+      1070,
+      626,
+      1142,
+      734
+    ],
+    "approx_area_m2": 20.12,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 50,
+    "real_lights": 1,
+    "furniture_parts": 16
+  },
+  {
+    "floor": "2F",
+    "name": "次卧1",
+    "reference_rect": [
+      1216,
+      478,
+      1324,
+      586
+    ],
+    "approx_area_m2": 30.77,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 109,
+    "real_lights": 2,
+    "furniture_parts": 40
+  },
+  {
+    "floor": "2F",
+    "name": "次卫1",
+    "reference_rect": [
+      1142,
+      440,
+      1216,
+      534
+    ],
+    "approx_area_m2": 17.92,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 61,
+    "real_lights": 1,
+    "furniture_parts": 26
+  },
+  {
+    "floor": "2F",
+    "name": "次卧2",
+    "reference_rect": [
+      1288,
+      586,
+      1396,
+      734
+    ],
+    "approx_area_m2": 42.6,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 101,
+    "real_lights": 4,
+    "furniture_parts": 40
+  },
+  {
+    "floor": "2F",
+    "name": "次卫2",
+    "reference_rect": [
+      1342,
+      734,
+      1432,
+      806
+    ],
+    "approx_area_m2": 16.63,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 67,
+    "real_lights": 1,
+    "furniture_parts": 26
+  },
+  {
+    "floor": "2F",
+    "name": "次卫3",
+    "reference_rect": [
+      1342,
+      806,
+      1432,
+      878
+    ],
+    "approx_area_m2": 16.63,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 70,
+    "real_lights": 1,
+    "furniture_parts": 26
+  },
+  {
+    "floor": "2F",
+    "name": "次卧3",
+    "reference_rect": [
+      1288,
+      878,
+      1396,
+      986
+    ],
+    "approx_area_m2": 30.77,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 68,
+    "real_lights": 2,
+    "furniture_parts": 40
+  },
+  {
+    "floor": "2F",
+    "name": "员工公共区",
+    "reference_rect": [
+      708,
+      784,
+      816,
+      950
+    ],
+    "approx_area_m2": 47.92,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 159,
+    "real_lights": 4,
+    "furniture_parts": 110
+  },
+  {
+    "floor": "2F",
+    "name": "员工宿舍1",
+    "reference_rect": [
+      816,
+      734,
+      936,
+      806
+    ],
+    "approx_area_m2": 22.44,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 79,
+    "real_lights": 2,
+    "furniture_parts": 36
+  },
+  {
+    "floor": "2F",
+    "name": "员工宿舍2",
+    "reference_rect": [
+      816,
+      806,
+      936,
+      878
+    ],
+    "approx_area_m2": 22.44,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 73,
+    "real_lights": 2,
+    "furniture_parts": 34
+  },
+  {
+    "floor": "2F",
+    "name": "员工宿舍3",
+    "reference_rect": [
+      816,
+      878,
+      936,
+      950
+    ],
+    "approx_area_m2": 22.44,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 71,
+    "real_lights": 2,
+    "furniture_parts": 34
+  },
+  {
+    "floor": "2F",
+    "name": "员工宿舍4",
+    "reference_rect": [
+      816,
+      950,
+      936,
+      1022
+    ],
+    "approx_area_m2": 22.44,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 79,
+    "real_lights": 2,
+    "furniture_parts": 37
+  },
+  {
+    "floor": "3F",
+    "name": "屋顶起居室",
+    "reference_rect": [
+      960,
+      586,
+      1070,
+      730
+    ],
+    "approx_area_m2": 45.06,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 108,
+    "real_lights": 4,
+    "furniture_parts": 58
+  },
+  {
+    "floor": "3F",
+    "name": "屋顶办公室",
+    "reference_rect": [
+      1070,
+      622,
+      1142,
+      730
+    ],
+    "approx_area_m2": 22.12,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 80,
+    "real_lights": 1,
+    "furniture_parts": 33
+  },
+  {
+    "floor": "3F",
+    "name": "屋顶楼梯厅",
+    "reference_rect": [
+      1142,
+      586,
+      1252,
+      730
+    ],
+    "approx_area_m2": 45.06,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 96,
+    "real_lights": 1,
+    "furniture_parts": 0
+  },
+  {
+    "floor": "1F",
+    "name": "西楼梯厅",
+    "reference_rect": [
+      746,
+      658,
+      850,
+      730
+    ],
+    "approx_area_m2": 21.3,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 40,
+    "real_lights": 1,
+    "furniture_parts": 0
+  },
+  {
+    "floor": "1F",
+    "name": "东楼梯厅",
+    "reference_rect": [
+      1142,
+      622,
+      1252,
+      730
+    ],
+    "approx_area_m2": 33.79,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 98,
+    "real_lights": 1,
+    "furniture_parts": 0
+  },
+  {
+    "floor": "2F",
+    "name": "西侧交通厅",
+    "reference_rect": [
+      708,
+      440,
+      816,
+      514
+    ],
+    "approx_area_m2": 22.73,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 31,
+    "real_lights": 2,
+    "furniture_parts": 0
+  },
+  {
+    "floor": "2F",
+    "name": "西楼梯厅",
+    "reference_rect": [
+      708,
+      954,
+      816,
+      1022
+    ],
+    "approx_area_m2": 20.89,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 41,
+    "real_lights": 1,
+    "furniture_parts": 0
+  },
+  {
+    "floor": "2F",
+    "name": "东楼梯厅",
+    "reference_rect": [
+      1148,
+      628,
+      1246,
+      730
+    ],
+    "approx_area_m2": 28.43,
+    "finish_scope": [
+      "地面",
+      "墙面",
+      "顶面与灯具",
+      "门套与收口",
+      "开关插座与风口"
+    ],
+    "cabinet_policy": "无储物柜体",
+    "review": "已检查楼层装修与几何清单；重点房间另附近景",
+    "installed_objects": 98,
+    "real_lights": 1,
+    "furniture_parts": 0
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "source_v1_sha256": "e5594633a618623d9d0d8fe7171c28857a29dfd7786c7bbbfd2926f797d9a07f",
+  "source_v2_sha256": "2c91d6ff1be8064cc35d6c27e9fbb83736511b3b1cb267782f2ff4487698287f",
+  "v1": {
+    "shapes": {
+      "B1 foundation footprint": {
+        "vertex_hash": "00efee5bde7d982fa92bb13454f4578a0213f015c97890af5521f23aad644922",
+        "vertices": 120,
+        "faces": 164
+      },
+      "1F curved platform structural slab": {
+        "vertex_hash": "f5d2f90372e94b4d05cd4cbdbbf07cba35ce4a400ed9656e7be3e158b4236626",
+        "vertices": 594,
+        "faces": 370
+      },
+      "2F H footprint with open south court": {
+        "vertex_hash": "4307cbfc2f3dd93e0b44b63c173eb423c15fc46b2e3c8debf08f6c7745f55a4d",
+        "vertices": 104,
+        "faces": 64
+      },
+      "Broad H roof / 2F ceiling": {
+        "vertex_hash": "3458dd0527e55b18a6e84dc45f447faccd2a98585003d183b0d6ec50bbed7b79",
+        "vertices": 36,
+        "faces": 36
+      },
+      "Thin upper pavilion roof": {
+        "vertex_hash": "eb9eaf720fe3ae03f6ef2f46f3941d086a71a28165c166a8e081414a001ab47b",
+        "vertices": 8,
+        "faces": 8
+      }
+    },
+    "objects": 4994,
+    "scenes": 4,
+    "materials": 25,
+    "packed_images": 3,
+    "version": "1.0"
+  },
+  "v2": {
+    "shapes": {
+      "B1 foundation footprint": {
+        "vertex_hash": "00efee5bde7d982fa92bb13454f4578a0213f015c97890af5521f23aad644922",
+        "vertices": 120,
+        "faces": 164
+      },
+      "1F curved platform structural slab": {
+        "vertex_hash": "f5d2f90372e94b4d05cd4cbdbbf07cba35ce4a400ed9656e7be3e158b4236626",
+        "vertices": 594,
+        "faces": 370
+      },
+      "2F H footprint with open south court": {
+        "vertex_hash": "4307cbfc2f3dd93e0b44b63c173eb423c15fc46b2e3c8debf08f6c7745f55a4d",
+        "vertices": 104,
+        "faces": 64
+      },
+      "Broad H roof / 2F ceiling": {
+        "vertex_hash": "3458dd0527e55b18a6e84dc45f447faccd2a98585003d183b0d6ec50bbed7b79",
+        "vertices": 36,
+        "faces": 36
+      },
+      "Thin upper pavilion roof": {
+        "vertex_hash": "eb9eaf720fe3ae03f6ef2f46f3941d086a71a28165c166a8e081414a001ab47b",
+        "vertices": 8,
+        "faces": 8
+      }
+    },
+    "objects": 8654,
+    "scenes": 6,
+    "materials": 36,
+    "packed_images": 24,
+    "version": "2.0"
+  },
+  "core_shapes_and_openings_preserved": true,
+  "room_schedule_preserved": true,
+  "room_count": 62
+}

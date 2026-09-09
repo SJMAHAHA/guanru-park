@@ -1,0 +1,34 @@
+[
+  {
+    "display": "B1 | TV / display",
+    "wall": "B1 | Opaque facade.027"
+  },
+  {
+    "display": "B1 | TV / display.001",
+    "wall": "B1 | Partition beside door.048"
+  },
+  {
+    "display": "B1 | TV / display.002",
+    "wall": "B1 | Partition beside door.041"
+  },
+  {
+    "display": "1F | TV / display",
+    "wall": "1F | Partition beside door.006"
+  },
+  {
+    "display": "1F | TV / display.001",
+    "wall": "1F | Partition beside door.001"
+  },
+  {
+    "display": "1F | TV / display.002",
+    "wall": "1F | Partition.003"
+  },
+  {
+    "display": "1F | TV / display.003",
+    "wall": "1F | Partition beside door"
+  },
+  {
+    "display": "3F | TV / display",
+    "wall": "3F | Partition beside door"
+  }
+]

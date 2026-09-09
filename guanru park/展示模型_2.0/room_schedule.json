@@ -1,0 +1,684 @@
+[
+  {
+    "floor": "B1",
+    "name": "SPA",
+    "reference_rect": [
+      630,
+      150,
+      704,
+      260
+    ],
+    "approx_area_m2": 21.11
+  },
+  {
+    "floor": "B1",
+    "name": "热泡池",
+    "reference_rect": [
+      630,
+      260,
+      704,
+      332
+    ],
+    "approx_area_m2": 13.54
+  },
+  {
+    "floor": "B1",
+    "name": "康疗走廊",
+    "reference_rect": [
+      704,
+      150,
+      740,
+      586
+    ],
+    "approx_area_m2": 39.32
+  },
+  {
+    "floor": "B1",
+    "name": "桑拿房",
+    "reference_rect": [
+      630,
+      368,
+      704,
+      422
+    ],
+    "approx_area_m2": 9.96
+  },
+  {
+    "floor": "B1",
+    "name": "淋浴间",
+    "reference_rect": [
+      630,
+      514,
+      704,
+      586
+    ],
+    "approx_area_m2": 13.54
+  },
+  {
+    "floor": "B1",
+    "name": "室内泳池",
+    "reference_rect": [
+      740,
+      150,
+      850,
+      514
+    ],
+    "approx_area_m2": 108.54
+  },
+  {
+    "floor": "B1",
+    "name": "乒乓球室",
+    "reference_rect": [
+      850,
+      150,
+      960,
+      332
+    ],
+    "approx_area_m2": 53.67
+  },
+  {
+    "floor": "B1",
+    "name": "瑜伽房",
+    "reference_rect": [
+      960,
+      150,
+      1032,
+      332
+    ],
+    "approx_area_m2": 34.43
+  },
+  {
+    "floor": "B1",
+    "name": "保龄球道",
+    "reference_rect": [
+      960,
+      332,
+      1338,
+      440
+    ],
+    "approx_area_m2": 110.64
+  },
+  {
+    "floor": "B1",
+    "name": "健身房",
+    "reference_rect": [
+      850,
+      440,
+      1032,
+      586
+    ],
+    "approx_area_m2": 71.9
+  },
+  {
+    "floor": "B1",
+    "name": "模拟高尔夫",
+    "reference_rect": [
+      1032,
+      440,
+      1138,
+      550
+    ],
+    "approx_area_m2": 30.75
+  },
+  {
+    "floor": "B1",
+    "name": "酒窖",
+    "reference_rect": [
+      1138,
+      440,
+      1248,
+      586
+    ],
+    "approx_area_m2": 42.81
+  },
+  {
+    "floor": "B1",
+    "name": "影音室",
+    "reference_rect": [
+      1248,
+      496,
+      1320,
+      586
+    ],
+    "approx_area_m2": 16.63
+  },
+  {
+    "floor": "B1",
+    "name": "客卧1",
+    "reference_rect": [
+      1320,
+      440,
+      1392,
+      586
+    ],
+    "approx_area_m2": 27.47
+  },
+  {
+    "floor": "B1",
+    "name": "客卫1",
+    "reference_rect": [
+      1342,
+      354,
+      1380,
+      438
+    ],
+    "approx_area_m2": 7.74
+  },
+  {
+    "floor": "B1",
+    "name": "客房客厅",
+    "reference_rect": [
+      1252,
+      622,
+      1464,
+      730
+    ],
+    "approx_area_m2": 61.53
+  },
+  {
+    "floor": "B1",
+    "name": "娱乐大厅",
+    "reference_rect": [
+      850,
+      622,
+      1080,
+      730
+    ],
+    "approx_area_m2": 66.86
+  },
+  {
+    "floor": "B1",
+    "name": "沙龙",
+    "reference_rect": [
+      630,
+      586,
+      718,
+      696
+    ],
+    "approx_area_m2": 25.33
+  },
+  {
+    "floor": "B1",
+    "name": "西楼梯厅",
+    "reference_rect": [
+      740,
+      586,
+      850,
+      730
+    ],
+    "approx_area_m2": 42.21
+  },
+  {
+    "floor": "B1",
+    "name": "东楼梯厅",
+    "reference_rect": [
+      1142,
+      586,
+      1248,
+      730
+    ],
+    "approx_area_m2": 40.62
+  },
+  {
+    "floor": "B1",
+    "name": "家庭影院",
+    "reference_rect": [
+      630,
+      730,
+      812,
+      876
+    ],
+    "approx_area_m2": 71.9
+  },
+  {
+    "floor": "B1",
+    "name": "游戏厅",
+    "reference_rect": [
+      630,
+      878,
+      812,
+      1022
+    ],
+    "approx_area_m2": 70.88
+  },
+  {
+    "floor": "B1",
+    "name": "车库",
+    "reference_rect": [
+      850,
+      734,
+      1138,
+      1095
+    ],
+    "approx_area_m2": 288.39
+  },
+  {
+    "floor": "B1",
+    "name": "机电设备北",
+    "reference_rect": [
+      1250,
+      734,
+      1320,
+      878
+    ],
+    "approx_area_m2": 26.28
+  },
+  {
+    "floor": "B1",
+    "name": "客卧2",
+    "reference_rect": [
+      1360,
+      806,
+      1466,
+      914
+    ],
+    "approx_area_m2": 30.17
+  },
+  {
+    "floor": "B1",
+    "name": "客卧3",
+    "reference_rect": [
+      1320,
+      914,
+      1466,
+      1022
+    ],
+    "approx_area_m2": 42.01
+  },
+  {
+    "floor": "B1",
+    "name": "客卫2",
+    "reference_rect": [
+      1414,
+      734,
+      1502,
+      804
+    ],
+    "approx_area_m2": 15.77
+  },
+  {
+    "floor": "B1",
+    "name": "客卫3",
+    "reference_rect": [
+      1414,
+      1024,
+      1502,
+      1092
+    ],
+    "approx_area_m2": 15.29
+  },
+  {
+    "floor": "B1",
+    "name": "机电设备南",
+    "reference_rect": [
+      1250,
+      1024,
+      1356,
+      1092
+    ],
+    "approx_area_m2": 18.57
+  },
+  {
+    "floor": "1F",
+    "name": "户外客餐区",
+    "reference_rect": [
+      708,
+      224,
+      960,
+      332
+    ],
+    "approx_area_m2": 73.36
+  },
+  {
+    "floor": "1F",
+    "name": "家庭客厅",
+    "reference_rect": [
+      708,
+      332,
+      960,
+      440
+    ],
+    "approx_area_m2": 73.36
+  },
+  {
+    "floor": "1F",
+    "name": "西厨及休闲餐厅",
+    "reference_rect": [
+      708,
+      440,
+      850,
+      656
+    ],
+    "approx_area_m2": 83.22
+  },
+  {
+    "floor": "1F",
+    "name": "餐厅",
+    "reference_rect": [
+      850,
+      440,
+      960,
+      622
+    ],
+    "approx_area_m2": 53.67
+  },
+  {
+    "floor": "1F",
+    "name": "主客厅",
+    "reference_rect": [
+      960,
+      440,
+      1142,
+      622
+    ],
+    "approx_area_m2": 90.12
+  },
+  {
+    "floor": "1F",
+    "name": "酒窖",
+    "reference_rect": [
+      1142,
+      440,
+      1252,
+      586
+    ],
+    "approx_area_m2": 42.81
+  },
+  {
+    "floor": "1F",
+    "name": "池畔酒吧",
+    "reference_rect": [
+      1288,
+      440,
+      1360,
+      514
+    ],
+    "approx_area_m2": 13.54
+  },
+  {
+    "floor": "1F",
+    "name": "起居室",
+    "reference_rect": [
+      1252,
+      514,
+      1360,
+      622
+    ],
+    "approx_area_m2": 30.77
+  },
+  {
+    "floor": "1F",
+    "name": "办公室",
+    "reference_rect": [
+      888,
+      622,
+      1069,
+      730
+    ],
+    "approx_area_m2": 52.36
+  },
+  {
+    "floor": "1F",
+    "name": "中厨",
+    "reference_rect": [
+      708,
+      730,
+      850,
+      840
+    ],
+    "approx_area_m2": 41.61
+  },
+  {
+    "floor": "1F",
+    "name": "洗衣房",
+    "reference_rect": [
+      708,
+      876,
+      850,
+      950
+    ],
+    "approx_area_m2": 27.48
+  },
+  {
+    "floor": "1F",
+    "name": "上层车库",
+    "reference_rect": [
+      850,
+      734,
+      960,
+      1022
+    ],
+    "approx_area_m2": 85.63
+  },
+  {
+    "floor": "1F",
+    "name": "次卧4",
+    "reference_rect": [
+      1288,
+      622,
+      1396,
+      730
+    ],
+    "approx_area_m2": 30.77
+  },
+  {
+    "floor": "1F",
+    "name": "次卫4",
+    "reference_rect": [
+      1342,
+      730,
+      1432,
+      804
+    ],
+    "approx_area_m2": 17.12
+  },
+  {
+    "floor": "1F",
+    "name": "次卫5",
+    "reference_rect": [
+      1342,
+      804,
+      1432,
+      876
+    ],
+    "approx_area_m2": 16.63
+  },
+  {
+    "floor": "1F",
+    "name": "次卧5",
+    "reference_rect": [
+      1288,
+      876,
+      1396,
+      986
+    ],
+    "approx_area_m2": 31.36
+  },
+  {
+    "floor": "2F",
+    "name": "主卧",
+    "reference_rect": [
+      780,
+      334,
+      924,
+      440
+    ],
+    "approx_area_m2": 40.62
+  },
+  {
+    "floor": "2F",
+    "name": "主卧起居室",
+    "reference_rect": [
+      816,
+      440,
+      960,
+      514
+    ],
+    "approx_area_m2": 27.88
+  },
+  {
+    "floor": "2F",
+    "name": "主卫西区",
+    "reference_rect": [
+      708,
+      514,
+      780,
+      734
+    ],
+    "approx_area_m2": 41.78
+  },
+  {
+    "floor": "2F",
+    "name": "女士衣帽间",
+    "reference_rect": [
+      816,
+      514,
+      924,
+      626
+    ],
+    "approx_area_m2": 31.95
+  },
+  {
+    "floor": "2F",
+    "name": "男士衣帽间",
+    "reference_rect": [
+      816,
+      626,
+      924,
+      734
+    ],
+    "approx_area_m2": 30.77
+  },
+  {
+    "floor": "2F",
+    "name": "洗衣房",
+    "reference_rect": [
+      1070,
+      626,
+      1142,
+      734
+    ],
+    "approx_area_m2": 20.12
+  },
+  {
+    "floor": "2F",
+    "name": "次卧1",
+    "reference_rect": [
+      1216,
+      478,
+      1324,
+      586
+    ],
+    "approx_area_m2": 30.77
+  },
+  {
+    "floor": "2F",
+    "name": "次卫1",
+    "reference_rect": [
+      1142,
+      440,
+      1216,
+      534
+    ],
+    "approx_area_m2": 17.92
+  },
+  {
+    "floor": "2F",
+    "name": "次卧2",
+    "reference_rect": [
+      1288,
+      586,
+      1396,
+      734
+    ],
+    "approx_area_m2": 42.6
+  },
+  {
+    "floor": "2F",
+    "name": "次卫2",
+    "reference_rect": [
+      1342,
+      734,
+      1432,
+      806
+    ],
+    "approx_area_m2": 16.63
+  },
+  {
+    "floor": "2F",
+    "name": "次卫3",
+    "reference_rect": [
+      1342,
+      806,
+      1432,
+      878
+    ],
+    "approx_area_m2": 16.63
+  },
+  {
+    "floor": "2F",
+    "name": "次卧3",
+    "reference_rect": [
+      1288,
+      878,
+      1396,
+      986
+    ],
+    "approx_area_m2": 30.77
+  },
+  {
+    "floor": "2F",
+    "name": "员工公共区",
+    "reference_rect": [
+      708,
+      784,
+      816,
+      950
+    ],
+    "approx_area_m2": 47.92
+  },
+  {
+    "floor": "2F",
+    "name": "员工宿舍1",
+    "reference_rect": [
+      816,
+      734,
+      936,
+      806
+    ],
+    "approx_area_m2": 22.44
+  },
+  {
+    "floor": "2F",
+    "name": "员工宿舍2",
+    "reference_rect": [
+      816,
+      806,
+      936,
+      878
+    ],
+    "approx_area_m2": 22.44
+  },
+  {
+    "floor": "2F",
+    "name": "员工宿舍3",
+    "reference_rect": [
+      816,
+      878,
+      936,
+      950
+    ],
+    "approx_area_m2": 22.44
+  },
+  {
+    "floor": "2F",
+    "name": "员工宿舍4",
+    "reference_rect": [
+      816,
+      950,
+      936,
+      1022
+    ],
+    "approx_area_m2": 22.44
+  }
+]

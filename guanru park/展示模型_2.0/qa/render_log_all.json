@@ -1,0 +1,82 @@
+[
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/01_Aerial.png",
+    "seconds": 41.63,
+    "scene": "00 · 完整建筑 | DAY"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/02_East.png",
+    "seconds": 46.11,
+    "scene": "00 · 完整建筑 | DAY"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/03_Courtyard.png",
+    "seconds": 68.69,
+    "scene": "00 · 完整建筑 | DAY"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/04_Pool.png",
+    "seconds": 109.91,
+    "scene": "00 · 完整建筑 | DAY"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/08_Living.png",
+    "seconds": 143.63,
+    "scene": "00 · 完整建筑 | DAY"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/09_Master.png",
+    "seconds": 128.17,
+    "scene": "00 · 完整建筑 | DAY"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/10_Kitchen.png",
+    "seconds": 135.32,
+    "scene": "00 · 完整建筑 | DAY"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/11_Twilight.png",
+    "seconds": 58.16,
+    "scene": "20 · 完整建筑 | TWILIGHT"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/05_B1_Plan.png",
+    "seconds": 49.14,
+    "scene": "10 · B1 家具平面 / isolated"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/05_B1_Axon.png",
+    "seconds": 32.49,
+    "scene": "10 · B1 家具平面 / isolated"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/06_1F_Plan.png",
+    "seconds": 46.67,
+    "scene": "10 · 1F 家具平面 / isolated"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/06_1F_Axon.png",
+    "seconds": 32.48,
+    "scene": "10 · 1F 家具平面 / isolated"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/07_2F_Plan.png",
+    "seconds": 37.35,
+    "scene": "10 · 2F 家具平面 / isolated"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/07_2F_Axon.png",
+    "seconds": 28.67,
+    "scene": "10 · 2F 家具平面 / isolated"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/12_3F_Plan.png",
+    "seconds": 28.05,
+    "scene": "10 · 3F 家具平面 / isolated"
+  },
+  {
+    "file": "/Users/sjm/Documents/blender/guanru park/展示模型_2.0/renders/12_3F_Axon.png",
+    "seconds": 20.4,
+    "scene": "10 · 3F 家具平面 / isolated"
+  }
+]

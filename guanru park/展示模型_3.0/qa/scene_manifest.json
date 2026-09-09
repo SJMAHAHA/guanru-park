@@ -1,0 +1,19 @@
+{
+  "objects": 10306,
+  "meshes": 2804,
+  "materials": 42,
+  "scenes": [
+    "00 · 完整建筑 | DAY",
+    "10 · 1F 家具平面 / isolated",
+    "10 · 2F 家具平面 / isolated",
+    "10 · 3F 家具平面 / isolated",
+    "10 · B1 家具平面 / isolated",
+    "20 · 完整建筑 | TWILIGHT"
+  ],
+  "rooms": 70,
+  "bounds_m": [
+    46.67,
+    50.4
+  ],
+  "storey": 3.15
+}

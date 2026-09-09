@@ -1,0 +1,74 @@
+[
+  {
+    "attachment": 1,
+    "source_filename": "codex-clipboard-cb134168-67d0-4f49-8d64-d91fadf7ebaf.png",
+    "saved_path": "外观/01_整体外观_侧向.png",
+    "width": 3456,
+    "height": 2234,
+    "sha256": "83af1db176116140087dacb3f61428be25c42d2d41e35066fa8c877dc077978c"
+  },
+  {
+    "attachment": 2,
+    "source_filename": "codex-clipboard-3049c0d4-7193-4a48-8a4b-bb6e817b89c8.png",
+    "saved_path": "外观/02_整体外观_鸟瞰.png",
+    "width": 3456,
+    "height": 2234,
+    "sha256": "8e28b4c00047f4fdf5fbe6d95196cb3e296fbf7d0a9d4cd3ba8590b6d0656735"
+  },
+  {
+    "attachment": 3,
+    "source_filename": "codex-clipboard-afcf3f9d-8592-46d4-97d6-98dfc45c1b6f.png",
+    "saved_path": "外观/03_整体外观_另一侧.png",
+    "width": 3456,
+    "height": 2234,
+    "sha256": "8b617668131544c3b4a284483652d250ee087de29d9357ba20c56e2767ca629b"
+  },
+  {
+    "attachment": 4,
+    "source_filename": "codex-clipboard-a96641cb-3acb-4337-97c6-288cac895ffb.png",
+    "saved_path": "B1/04_B1_剖切轴测.png",
+    "width": 3456,
+    "height": 2234,
+    "sha256": "c37b43ed0b8171c385e9f913497308ec7f3a8f0201c1d79333787f6a13155d1c"
+  },
+  {
+    "attachment": 5,
+    "source_filename": "codex-clipboard-2c44e91a-9354-4a6f-9ea9-69c368f81a06.png",
+    "saved_path": "B1/05_B1_平面图.png",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "a11a49909a72e7eeaec40807984c6e1bfa722f3beeae62f9782bf3dbc83ae84b"
+  },
+  {
+    "attachment": 6,
+    "source_filename": "codex-clipboard-8747790b-03a3-434b-a660-8df1096555f2.png",
+    "saved_path": "1F/06_1F_剖切轴测.png",
+    "width": 3456,
+    "height": 2234,
+    "sha256": "e33449600ee7a79ea55c8522fdb6fa0cabb9c491417d3e760a10dca639b43697"
+  },
+  {
+    "attachment": 7,
+    "source_filename": "codex-clipboard-378c297e-6f3f-4af9-8d14-85cb197363b4.png",
+    "saved_path": "1F/07_1F_平面图.png",
+    "width": 1280,
+    "height": 720,
+    "sha256": "490e021e0c7d20b89a040f959e7632ed64677dd21f50754a41494f22b1bae877"
+  },
+  {
+    "attachment": 8,
+    "source_filename": "codex-clipboard-61622dea-1c19-4a26-8f92-105c8d23ad46.png",
+    "saved_path": "3F/08_3F_屋顶轴测.png",
+    "width": 3456,
+    "height": 2234,
+    "sha256": "f6eed1531cd72a8edf84b04bdf59c17f21568a5be23f9d9db720b36800f41a11"
+  },
+  {
+    "attachment": 9,
+    "source_filename": "codex-clipboard-0b3970a0-627e-41f1-ab42-5fc4a0e669dc.png",
+    "saved_path": "2F/09_2F_剖切轴测.png",
+    "width": 3456,
+    "height": 2234,
+    "sha256": "4af6a5b82b2a92f81aa432e035908efed6f672fcd42251bfdd77f59bfea5b66d"
+  }
+]

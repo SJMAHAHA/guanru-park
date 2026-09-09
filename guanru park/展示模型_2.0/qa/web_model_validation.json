@@ -1,0 +1,21 @@
+{
+  "version": "2.0",
+  "sha256": "4e85e56da8c2256a395f69cb47c78ef9adbfc03dc456a88d513e48fadfcd185f",
+  "scenes": 1,
+  "groups": 24,
+  "drawCalls": 167,
+  "triangles": 1953970,
+  "mappedMeshes": 51,
+  "textures": 19,
+  "megabytes": 19.28,
+  "bounds": [
+    58.069705705018734,
+    13.740027606107095,
+    58.81702127516421
+  ],
+  "singleFloorAndFurnitureChecks": true,
+  "roofRevealCheck": true,
+  "explosionRoundTripChecks": 3,
+  "cameraTargetsChecked": 7,
+  "roomAnchorsChecked": 20
+}

@@ -1,0 +1,265 @@
+{
+  "renders": [
+    {
+      "name": "01_Aerial.png",
+      "dimensions": [
+        2400,
+        1660
+      ],
+      "bytes": 4462932
+    },
+    {
+      "name": "02_East.png",
+      "dimensions": [
+        2400,
+        1660
+      ],
+      "bytes": 4170648
+    },
+    {
+      "name": "03_Courtyard.png",
+      "dimensions": [
+        2400,
+        1660
+      ],
+      "bytes": 4599604
+    },
+    {
+      "name": "04_Pool.png",
+      "dimensions": [
+        2400,
+        1660
+      ],
+      "bytes": 4640288
+    },
+    {
+      "name": "05_B1_Axon.png",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 4227326
+    },
+    {
+      "name": "05_B1_Plan.png",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 4434032
+    },
+    {
+      "name": "06_1F_Axon.png",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 4248565
+    },
+    {
+      "name": "06_1F_Plan.png",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 4430522
+    },
+    {
+      "name": "07_2F_Axon.png",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 4001222
+    },
+    {
+      "name": "07_2F_Plan.png",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 3977745
+    },
+    {
+      "name": "08_Living.png",
+      "dimensions": [
+        2400,
+        1660
+      ],
+      "bytes": 4567553
+    },
+    {
+      "name": "09_Master.png",
+      "dimensions": [
+        2400,
+        1660
+      ],
+      "bytes": 4521428
+    },
+    {
+      "name": "10_Kitchen.png",
+      "dimensions": [
+        2400,
+        1660
+      ],
+      "bytes": 4357470
+    },
+    {
+      "name": "11_Twilight.png",
+      "dimensions": [
+        2400,
+        1660
+      ],
+      "bytes": 4299994
+    },
+    {
+      "name": "12_3F_Axon.png",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 3507111
+    },
+    {
+      "name": "12_3F_Plan.png",
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "bytes": 3573910
+    }
+  ],
+  "local_http_assets": [
+    {
+      "path": "gallery/01_Aerial.jpg",
+      "http": 200,
+      "bytes": 202097
+    },
+    {
+      "path": "gallery/02_East.jpg",
+      "http": 200,
+      "bytes": 181581
+    },
+    {
+      "path": "gallery/03_Courtyard.jpg",
+      "http": 200,
+      "bytes": 233059
+    },
+    {
+      "path": "gallery/04_Pool.jpg",
+      "http": 200,
+      "bytes": 322352
+    },
+    {
+      "path": "gallery/05_B1_Axon.jpg",
+      "http": 200,
+      "bytes": 289649
+    },
+    {
+      "path": "gallery/06_1F_Axon.jpg",
+      "http": 200,
+      "bytes": 291433
+    },
+    {
+      "path": "gallery/07_2F_Axon.jpg",
+      "http": 200,
+      "bytes": 228456
+    },
+    {
+      "path": "gallery/08_Living.jpg",
+      "http": 200,
+      "bytes": 260304
+    },
+    {
+      "path": "gallery/09_Master.jpg",
+      "http": 200,
+      "bytes": 258600
+    },
+    {
+      "path": "gallery/10_Kitchen.jpg",
+      "http": 200,
+      "bytes": 207154
+    },
+    {
+      "path": "gallery/11_Twilight.jpg",
+      "http": 200,
+      "bytes": 195108
+    },
+    {
+      "path": "gallery/12_3F_Axon.jpg",
+      "http": 200,
+      "bytes": 109136
+    },
+    {
+      "path": "gallery/thumb-01_Aerial.jpg",
+      "http": 200,
+      "bytes": 10277
+    },
+    {
+      "path": "gallery/thumb-02_East.jpg",
+      "http": 200,
+      "bytes": 9425
+    },
+    {
+      "path": "gallery/thumb-03_Courtyard.jpg",
+      "http": 200,
+      "bytes": 12276
+    },
+    {
+      "path": "gallery/thumb-04_Pool.jpg",
+      "http": 200,
+      "bytes": 17243
+    },
+    {
+      "path": "gallery/thumb-05_B1_Axon.jpg",
+      "http": 200,
+      "bytes": 8544
+    },
+    {
+      "path": "gallery/thumb-06_1F_Axon.jpg",
+      "http": 200,
+      "bytes": 8179
+    },
+    {
+      "path": "gallery/thumb-07_2F_Axon.jpg",
+      "http": 200,
+      "bytes": 6178
+    },
+    {
+      "path": "gallery/thumb-08_Living.jpg",
+      "http": 200,
+      "bytes": 16094
+    },
+    {
+      "path": "gallery/thumb-09_Master.jpg",
+      "http": 200,
+      "bytes": 15668
+    },
+    {
+      "path": "gallery/thumb-10_Kitchen.jpg",
+      "http": 200,
+      "bytes": 12265
+    },
+    {
+      "path": "gallery/thumb-11_Twilight.jpg",
+      "http": 200,
+      "bytes": 9764
+    },
+    {
+      "path": "gallery/thumb-12_3F_Axon.jpg",
+      "http": 200,
+      "bytes": 3243
+    },
+    {
+      "path": "preview-v2.jpg",
+      "http": 200,
+      "bytes": 126128
+    },
+    {
+      "path": "villa-v2.glb",
+      "http": 200,
+      "bytes": 19279932
+    }
+  ],
+  "all_passed": true
+}
